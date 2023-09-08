@@ -1,0 +1,3431 @@
+{
+  "jobs": [
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "created": "2023-08-31T23:52:48Z",
+      "description": "A unique job has opened up for a motivated JavaScriptDeveloper A niche yetexpanding subsurface data software company in Aberdeen is looking to recruit an enthusiastic developer due to organic growth. Youll work on new greenfield projects for a global client base and will focus on front-end development using JavaScript as well as React development. Our client is a small but expanding business and this is an opportunity for a dedicateddeveloper to make a significant impact on the project and busi…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Bright Purple"
+      },
+      "contract_type": "Permanent",
+      "contract_time": "Full Time",
+      "salary_min": 40000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "Scotland",
+          "Aberdeenshire",
+          "Aberdeen"
+        ],
+        "display_name": "Aberdeen, Aberdeenshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_max": 60000,
+      "id": "4287506407",
+      "title": "JavaScript Developer",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4287506407?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=CA18DA90B0D6357DE3BAAFC31E6ABEA38CFC0DE2",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI4NzUwNjQwNyIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.hRU_URof19KhaWOQIswQbcqW93q_03etl-9EzyN0aQE",
+      "latitude": 57.147499,
+      "longitude": -2.0954
+    },
+    {
+      "id": "4257231990",
+      "salary_max": 40000,
+      "latitude": 57.147499,
+      "longitude": -2.0954,
+      "salary_is_predicted": "0",
+      "title": "JavaScript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjU3MjMxOTkwIn0.bha4UOEZ2cWzT3twzuYsPFRXACkEflduVc95sCTi8eo",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4257231990?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=C53E46B81DCA6AE593755C87BE5E65655F043A9E",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_type": "Permanent",
+      "contract_time": "Part Time",
+      "location": {
+        "area": [
+          "UK",
+          "Scotland",
+          "Aberdeenshire",
+          "Aberdeen"
+        ],
+        "display_name": "Aberdeen, Aberdeenshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 30000,
+      "created": "2023-08-12T21:21:20Z",
+      "description": "A unique job has opened up for a motivated JavaScript Developer A niche yetexpanding subsurface data software company in Aberdeen is looking to recruit an enthusiastic developer due to organic growth. Youll work on new greenfield projects for a global client base and will focus on front-end development using JavaScript as well as React development. Our client is a small but expanding business and this is an opportunity for a dedicateddeveloper to make a significant impact on the project and bus…",
+      "company": {
+        "display_name": "Bright Purple",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "id": "4257231997",
+      "salary_max": 55000,
+      "latitude": 56.709301,
+      "longitude": -2.4674,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4257231997?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=FF986D48A2928DAACE9341460DD474BE6572062E",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI1NzIzMTk5NyIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.l9pPbAfX0IKRMPNZAdMrEltB4VBoIqdyTqaOXn73ZZ0",
+      "title": "JavaScript Developer",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_min": 40000,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Montrose, Angus",
+        "area": [
+          "UK",
+          "Scotland",
+          "Angus",
+          "Montrose"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "Temporary",
+      "contract_time": "Full Time",
+      "company": {
+        "display_name": "Bright Purple",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2023-08-12T21:21:20Z",
+      "description": "A unique job has opened up for a motivated JavaScript Developer A niche yetexpanding subsurface data software company in Aberdeen is looking to recruit an enthusiastic developer due to organic growth. Youll work on new greenfield projects for a global client base and will focus on front-end development using JavaScript as well as React development. Our client is a small but expanding business and this is an opportunity for a dedicateddeveloper to make a significant impact on the project and bus…"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "display_name": "Premier IT",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "Senior Frontend JavaScript Developer Oxford - Once a month in the office£60,000-£80,000Are you an experienced Frontend Developer looking for your next challenge? Would once a month office working in Oxford be a reasonable commute?I’m currently working for a global business who are well established within the online gaming/gambling industry and looking for a Senior JavaScript Developer to their growing team. The company have been going for over 20 years and have a well-established team of over 2…",
+      "created": "2023-08-24T00:20:18Z",
+      "location": {
+        "display_name": "Oxford, Oxfordshire",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South East England",
+          "Oxfordshire",
+          "Oxford"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 33000,
+      "salary_max": 45000,
+      "contract_type": "Temporary",
+      "id": "4275039147",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI3NTAzOTE0NyIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.inQB7rcRuE10RFwl6LdUIylGGkGHZ6-G8Rr_VUrfBSo",
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4275039147?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=8E1481C5B3BEE82D95E8F96DE748BAC345F5D92E",
+      "salary_is_predicted": "0",
+      "title": "JavaScript Developer",
+      "latitude": 51.7523,
+      "longitude": -1.25588
+    },
+    {
+      "salary_is_predicted": "0",
+      "title": "Javascript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0Mjc1ODkwMDcyIn0.8tl4JDLc85KdqyxGsSmoXIUA1fAH04SGTHuKUiAdttg",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4275890072?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=C2D2AE6C282462F75F0675CB28E9C6C30667E9BA",
+      "contract_time": "Full Time",
+      "longitude": -2.23438,
+      "latitude": 53.480701,
+      "salary_max": 80000,
+      "id": "4275890072",
+      "created": "2023-08-24T12:23:47Z",
+      "description": "My client are a Manchester based, SaaS business looking to grow their 50 strong development team significantly (but steadily) after several funding rounds in recent years. Their most recent round of investment (close to £100m) means they are looking for Javascript Developers of varying levels to join their like-minded team. All new developers (regardless of level) join an incubator squad for 2-3 months where you learn about the different project teams, shadow other developers, get to grips with…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Better Placed Limited"
+      },
+      "contract_type": "Permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Manchester, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ]
+      },
+      "salary_min": 40000,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "title": "JavaScript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0Mjc1MzQ0MzIwIn0.clZgKhAMG4u27x7mWTJtIMCRCySAAtYt85LtiLcXcSo",
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4275344320?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=9A93719E318621E379E06AC51E868CEFBFFD55C0",
+      "latitude": 52.483002,
+      "longitude": -1.89359,
+      "salary_max": 38000,
+      "id": "4275344320",
+      "description": "JavaScript Developer JavaScript Developer - UK EduTech Firm - On-site - Birmingham (Tech stack: JavaScript Developer, JavaScript, HTML, CSS, Vanilla, jQuery, Frontend Engineer, Frontend Developer, JavaScript Engineer, JavaScript Developer, JavaScript Developer) I am recruiting for a JavaScript Developer for a highly successful Edutech Company based in Birmingham. They have led this education industry for over 20 years with the focus on educating adults and children in the most entertaining and …",
+      "created": "2023-08-24T04:23:42Z",
+      "company": {
+        "display_name": "Noir",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "Temporary ",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Birmingham, West Midlands",
+        "area": [
+          "UK",
+          "West Midlands",
+          "Birmingham"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 25000,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "description": "JavaScript Developer A brand new and exciting opportunity has recently arisen for a JavaScript Developer with an extensive knowledge in JavaScript, CCS and HTML to join the UK's Largest NHS department based remote. As the JavaScript Developer you will be designing new user interfaces through the use of wireframes and implement new web platforms to improve accessibility. This is an excellent opportunity for a JavaScript Developer who is looking to upskill in AWS, Node.Js and to work for the Larg…",
+      "salary_is_predicted": "0",
+      "created": "2023-08-29T20:36:24Z",
+      "title": "JavaScript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI4MzcwNDY2MSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.r4UZJ_aG7FSnqNbOGHxWI9Ruxvz3LSe5E1wZuV3xxqs",
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4283704661?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=9A0D80DFB91CF05CF9A755D644D247BB95F85998",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Understanding Recruitment"
+      },
+      "contract_type": "Permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "salary_min": 37000,
+      "salary_max": 47500,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "id": "4283704661"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "description": "JavaScript Developer - Fully remote (£55k-£65k)This is an excellent opportunity to work on an already very successful SAAS product that helps support the health, safety and wellbeing of students and school staff across the UK.This fully-remote role can be filled from anywhere within the UK , is paying between £55k and £65k per annum. THE ROLE:Working within a small, cohesive software engineering team, you will be leading initiatives to expand on the existing platform by adding a wide range of n…",
+      "created": "2023-08-29T20:36:34Z",
+      "company": {
+        "display_name": "Lorien",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "Permanent",
+      "location": {
+        "display_name": "Manchester, Greater Manchester",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 55000,
+      "salary_max": 65000,
+      "id": "4283704675",
+      "salary_is_predicted": "0",
+      "title": "JavaScript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI4MzcwNDY3NSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.5381W15i_IgEgN3OqfD_9BcudV11-YFSo_drTfyE1-Q",
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4283704675?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=ACA0533721D5AEB9DB5BC7F9980FEFABDB5EC9C5",
+      "latitude": 53.480701,
+      "longitude": -2.23438
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_max": 90000,
+      "id": "4248183201",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI0ODE4MzIwMSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.O0C3bVC9RIMvQi-E84PD4ThqFVXpVpWAvCLuTOX4Qx4",
+      "company": {
+        "display_name": "Harnham   Data & Analytics Recruitment",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4248183201?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=D10691ED53AA49F498C0A5305D794430AEE89ECD",
+      "description": "Senior JavaScript Developer Up to £90,000 Hybrid (London) A leading insurance company is looking for a software engineer to help be the sole developer within their data science team. You will be responsible for building web applications and working on new projects every quarter. Responsibilities Develop and maintain web and mobile applications using modern full-stack technologies. Collaborate with product managers and designers to translate business requirements into technical specifications. E…",
+      "salary_is_predicted": "0",
+      "created": "2023-08-07T20:23:26Z",
+      "title": "Senior JavaScript Developer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "salary_min": 70000,
+      "contract_type": "Permanent"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Better Placed Limited"
+      },
+      "description": "My client are a Manchester based, SaaS business looking to grow their 50 strong development team significantly (but steadily) after several funding rounds in recent years. Their most recent round of investment (close to £100m) means they are looking for a Senior Javascript Developer to join their like-minded team. As a Senior/ Lead Developer, you'll have a high level of competence using JavaScript and related frameworks and libraries as well as enjoying being a mentor to more junior developers …",
+      "created": "2023-08-24T12:18:52Z",
+      "salary_min": 60000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Manchester, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ]
+      },
+      "contract_type": "Permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4275867101?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=72589CE0098F5803E900223D862DEA787A119175",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0Mjc1ODY3MTAxIn0.k2ei9-Gog9kwGqIPnE-Ou-Qj9R_0n9vUxjR4P4hjlHc",
+      "title": "Senior Javascript Developer",
+      "salary_is_predicted": "0",
+      "longitude": -2.23438,
+      "latitude": 53.480701,
+      "salary_max": 75000,
+      "id": "4275867101"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "Permanent",
+      "salary_min": 70000,
+      "location": {
+        "display_name": "Manchester, Greater Manchester",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Senior JavaScript Developer - Fully remote (£70k-£80k)This is an excellent opportunity to work on an already very successful SAAS product that helps support the health, safety and wellbeing of students and school staff across the UK.This fully-remote role can be filled from anywhere within the UK , is paying between £70k and £80k per annum. THE ROLE:Working within a small, cohesive software engineering team, you will be leading initiatives to expand on the existing platform by adding a wide ran…",
+      "created": "2023-08-30T00:30:19Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Lorien"
+      },
+      "id": "4283836297",
+      "salary_max": 80000,
+      "latitude": 53.480701,
+      "longitude": -2.23438,
+      "title": "Senior JavaScript Developer",
+      "salary_is_predicted": "0",
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4283836297?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=EA53E843A17F75284F58BB2B34BE1565822D5234",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI4MzgzNjI5NyIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.-z3Ue-Jl7nFACaowlb_N1MBDb4Rj33dshWQEXQT6JTw"
+    },
+    {
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4277600337?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=61A37C541A77EC3612D29EE1950AC10B93D3F0C6",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Reed Talent Solutions"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0Mjc3NjAwMzM3In0.gOKEkKKDFE3Bna1JIbT67A_QmhmfrGG7-oUCUTD9e2o",
+      "title": "Senior JavaScript Developer",
+      "salary_is_predicted": "0",
+      "description": "Main Duties of the Job This is a hands-on development role in which you will develop and deploy new products as well as developing and enhancing UKHSA’s existing products and apps. You will work with business and technology stakeholders to translate business problems into technical designs. You will collaborate with UI, connectivity and DevOps teams in order to build elegant solutions to complex problems. You will use the Scrum agile delivery methodology and deliver software in short iterations…",
+      "created": "2023-08-25T16:21:58Z",
+      "salary_min": 37056,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "contract_type": "Permanent",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 45998,
+      "id": "4277600337"
+    },
+    {
+      "salary_max": 62286,
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "4277604121",
+      "title": "Lead JavaScript Developer",
+      "salary_is_predicted": "0",
+      "created": "2023-08-25T16:30:23Z",
+      "description": "Main Duties of the Job Lead the development and maintenance of UKHSA’s portfolio of apps and websites Define the technical requirements for the implementation of new software solutions Define the technical aspects of the application solution architecture, including the technology used, methodology followed, and devices/platforms targeted Prepare technical solution and architecture documents, work products and presentations Define security protocols, analytics and social channel integration Desi…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Reed Talent Solutions"
+      },
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4277604121?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=F9FED6035A92AFBF8CD9EDF8DCF260BF9AD15245",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI3NzYwNDEyMSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.JiMwiKxfHTuwP0eLy7MI-_9TknePyA3jkHRQ2ZDLNJ4",
+      "contract_type": "Permanent",
+      "salary_min": 49592,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      }
+    },
+    {
+      "salary_max": 50546,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "4260587601",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI2MDU4NzYwMSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.XX684fRbD5_oGJi-8OKd6Hwu-MoftTGIqzNhuyiCNe4",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Bright Purple"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4260587601?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=17139D6493099089E3041756A790ED8B71C04B72",
+      "salary_is_predicted": "1",
+      "description": "A unique job has opened up for a motivated JavaScript Developer A niche yetexpanding subsurface data software company in Aberdeen is looking to recruit an enthusiastic developer due to organic growth. You’ll work on new greenfield projects for a global client base and will focus on front-end development using JavaScript as well as React development. Our client is a small but expanding business and this is an opportunity for a dedicateddeveloper to make a significant impact on the project and bu…",
+      "created": "2023-08-15T05:01:46Z",
+      "title": "JavaScript Developer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Aberdeen, Aberdeenshire",
+        "area": [
+          "UK",
+          "Scotland",
+          "Aberdeenshire",
+          "Aberdeen"
+        ]
+      },
+      "salary_min": 50546,
+      "contract_type": "Permanent",
+      "contract_time": "Part Time"
+    },
+    {
+      "id": "4130183733",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 65762,
+      "latitude": 51.503378,
+      "longitude": -0.139134,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 35762.44,
+      "created": "2023-06-02T02:00:31Z",
+      "salary_is_predicted": "1",
+      "contract_time": "Part Time",
+      "contract_type": "Contract",
+      "description": "File: /home/xhyyjfknxmvj/public_html/application/views/pages/job-detail.php Line: 23 Function: _error_handler File: /home/xhyyjfknxmvj/public_html/application/views/includes/main.php Line: 71 Function: view File: /home/xhyyjfknxmvj/public_html/index.php Line: 315 Function: require_once File: /home/xhyyjfknxmvj/public_html/application/views/pages/job-detail.php Line: 23 Function: _error_handler File: /home/xhyyjfknxmvj/public_html/application/views/includes/main.php Line: 71 Function: view File:…",
+      "title": "Javascript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDEzMDE4MzczMyIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.yE-J8OvI8bzaQKsqaHF3JPtc6ewck1VlDwgy4tY27_A",
+      "company": {
+        "display_name": "Thedataheads",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4130183733?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=5FD004CD3BE0504BF5C789E4D0CDA618B45F1ED2"
+    },
+    {
+      "salary_min": 32417,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Birmingham, West Midlands",
+        "area": [
+          "UK",
+          "West Midlands",
+          "Birmingham"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "JavaScript Developer",
+      "salary_is_predicted": "1",
+      "contract_time": "Part Time",
+      "contract_type": "Permanent",
+      "created": "2023-09-03T01:52:24Z",
+      "description": "Pearson Carter are working with a client that is building the future of accessibility – come and join their mission of achieving accessibility for all. Recite Me is the leading provider of cloud accessibility and digital inclusion software. A true Global SaaS success story, our flagship accessibility toolbar is used by thousands of organizations globally, including many household names, and we are on a journey towards our goal of accessibility for all. As an innovative tech company in a period …",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4292316360?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=CDF67F2F9056C243DB8307BA6E13D2D9AF56B0E0",
+      "company": {
+        "display_name": "Pearson Carter",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjkyMzE2MzYwIn0.oviCM0aEfnh9hzfNerxCdHfRBF5S9A9mlsdPWSRYahg",
+      "id": "4292316360",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_max": 45417
+    },
+    {
+      "id": "4269773625",
+      "salary_max": 55000,
+      "latitude": 51.897999,
+      "longitude": -2.07131,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4269773625?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=EBD79609D3E8AE1A04A2E6EDF510D9CCB136ED89",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjY5NzczNjI1In0.GZq21PqwA7Lz3fWOHB1ovMeSKJVe_lLdjeXFpOGWtJ4",
+      "title": "JavaScript Developer",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 35000,
+      "location": {
+        "area": [
+          "UK",
+          "South West England",
+          "Gloucestershire",
+          "Cheltenham"
+        ],
+        "display_name": "Cheltenham, Gloucestershire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "Permanent",
+      "contract_time": "Full Time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Eclipse Total Solutions Limited"
+      },
+      "created": "2023-08-21T05:31:47Z",
+      "description": "JavaScript Developer (2 Years Experience) In this role, you'll dive headfirst into dynamic projects and collaborate closely with our talented teams. Your deep understanding of JavaScript and its ecosystem will drive the development of feature-rich applications that elevate our clients' presence. If you're a problem solver, a creative thinker, and a dedicated coder, we want you on our team. Responsibilities: Work closely with our clients and internal stakeholders to translate requirements into t…"
+    },
+    {
+      "description": "Full Stack Javascript Developer - Fully remote (must be UK based) - £50,000 to £85,000 Apointe are excited to be working with out hires as they look to add to their Development team - we are on the hunt for Full Stack Javascript Developers. As a thriving digital market place provider connecting customers with great local businesses, as well as others across the UK. This is an exciting opportunity to work in a dynamic and friendly environment where you can make a real impact on their platform. R…",
+      "created": "2023-08-24T08:28:47Z",
+      "company": {
+        "display_name": "APOINTE LIMITED",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "Permanent",
+      "salary_min": 50000,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Reading, Berkshire",
+        "area": [
+          "UK",
+          "South East England",
+          "Berkshire",
+          "Reading"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "title": "Full Stack Javascript Developer",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4275592316?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=616B6FB2AD256229A16ACBE2516C6EEA9D562E0D",
+      "contract_time": "Full Time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI3NTU5MjMxNiIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.8Th563rWlVHgi2C7QTMgO4Jn915fo9xSQZnl-IMyDuE",
+      "latitude": 51.455002,
+      "longitude": -0.969088,
+      "salary_max": 85000,
+      "id": "4275592316"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 61632,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "contract_type": "Contract",
+      "contract_time": "Part Time",
+      "company": {
+        "display_name": "Apollo Solutions Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2023-08-13T04:28:48Z",
+      "description": "Full-stack Developer PHP and Javascript / Backend - PHP / Frontend Javascript - Mid-level - Senior Remote - Open to EU and UK 4 month rolling term (long term) 1 stage interview process Outside IR35 Your Responsibilities: • Provide technical support to the business on web application, using your experience of the programming language - PHP and Javascript. • You'll be designing and implementing a web application application hosted on AWS. • You'll collaborate closely with product and design teams…",
+      "id": "4257544905",
+      "salary_max": 75000,
+      "latitude": 51.503378,
+      "longitude": -0.139134,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4257544905?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=D68984204A30105A9AC46F4927E1E6CD047483A5",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI1NzU0NDkwNSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.apoizu4ek1OEz1mpLLtjzQMtJjq07jPgF1CZegU5K3E",
+      "title": "PHP and Javascript Developer",
+      "salary_is_predicted": "1"
+    },
+    {
+      "title": "Lead JavaScript Developer",
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4126899513?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=02FA305CB5189856EE98EAE6F27E29AB42CF78FC",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDEyNjg5OTUxMyIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.aLtvkKw3aT58l1g2YDhPMzwu5OU5PRdk7ZJSpraWwls",
+      "latitude": 53.7244,
+      "longitude": -1.86158,
+      "salary_max": 42639,
+      "id": "4126899513",
+      "description": "If so, drop us a line by clicking one of the below options. Not quite the right fit? Submit your ideal criteria here and you'll automatically be alerted when we register a newcandidate that fits the bill. They have started several roles as a Senior Developer and quickly been promoted into a Lead position, improving development processes, implementing CI/CD, Agile working, TDD and BDD. They lead by example and love to remain hands-on with development and team management. They currently looking f…",
+      "created": "2023-05-31T23:26:00Z",
+      "company": {
+        "display_name": "Impact Search",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "Contract",
+      "contract_time": "Full Time",
+      "salary_min": 54439,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "Yorkshire And The Humber",
+          "West Yorkshire",
+          "Halifax"
+        ],
+        "display_name": "Halifax, West Yorkshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Pearson Carter"
+      },
+      "created": "2023-08-24T08:19:41Z",
+      "description": "Pearson Carter are working with a client that Operate across the Industrial & manufacturing, Defense, Healthcare, Education and Utilities sector. They are looking for a Senior Full Stack React Developer to expand their front and backend teams. They offer remote work and industry-leading benefits. My client are looking for JavaScript / React Full Stack Developers. Responsibilities - Assisting in the development of their in-house system - Enhancing carious aspects of their core software - Develop…",
+      "location": {
+        "area": [
+          "UK",
+          "East Midlands",
+          "Nottinghamshire",
+          "Nottingham"
+        ],
+        "display_name": "Nottingham, Nottinghamshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 40000,
+      "contract_type": "Permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0Mjc1NTc4OTYzIn0.HykXy-wv7bUsBun70prZ_4-9oxauo_8RnQwLgJ9WwM0",
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4275578963?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=BB4E604E4997D8B09B4E07C41AB345458DC1BE2F",
+      "salary_is_predicted": "0",
+      "title": "Senior Full Stack JavaScript Developer",
+      "longitude": -1.14917,
+      "latitude": 52.955101,
+      "salary_max": 50000,
+      "id": "4275578963"
+    },
+    {
+      "salary_max": 51391,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "id": "4245466150",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Pearson Carter"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4245466150?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=AF7048DA9919C0097E3DD36BD0B96BD0F30C52EB",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjQ1NDY2MTUwIn0.nOLt0xIZo1LDfZLaW1L2npK-71mAtYZm_E5UZOcM6WY",
+      "title": "JavaScript Developer-Remote ",
+      "salary_is_predicted": "1",
+      "created": "2023-08-06T06:31:59Z",
+      "contract_type": "Temporary",
+      "contract_time": "Full Time",
+      "description": "JavaScript Developer | Remote | 60k Pearson Carter are currently Working alongside a start up company whoprovide children who are seriously ill with necessary information on their illness and the tools in hospital to put their mind at ease and help with their anxiety. They are looking for capable JavaScript Developer to take on new projects and keeping their app alive and updated and work alongside there head of development. Essential Requirements: ● Javascript / Typescript / node.js (minimum 3…",
+      "salary_min": 58000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK"
+        ]
+      }
+    },
+    {
+      "id": "4288415549",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_max": 47127,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "salary_min": 32127,
+      "longitude": -0.139134,
+      "latitude": 51.503378,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0Mjg4NDE1NTQ5In0.nMBSt0QTn8IcjYMVVjrdIZ7iaNetqwSZHOiXJMj0M8I",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4288415549?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=FD23D99559478A216F2C384625AD1DF956B42BDB",
+      "company": {
+        "display_name": "Pearson Carter",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "fully remoteJavaScriptDeveloper, 50k Pearson Carter are currently working with a largeinsuranceclientwho are working with companies such as the NHS and Ministry of Defense, they are looking for an ambitious JavaScript Developerwho is confident on workinginprojects from scratchand canevolve with the company. This Company is up to date with the latest technologies and have big plans to expand their development team in the near future. Responsibilities: Key responsibilities will include assisting …",
+      "salary_is_predicted": "1",
+      "contract_time": "Part Time",
+      "contract_type": "Permanent",
+      "created": "2023-09-01T08:18:14Z",
+      "title": "JavaScript Developer-Remote"
+    },
+    {
+      "salary_max": 56787,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "id": "4126891698",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDEyNjg5MTY5OCIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.HrXhNEPd975yUx3zc6D0tj6WCG5_OETzP0Cse05F8Zc",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Stafford Sharp Associates"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4126891698?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=5781F4A6482D28E596EEF5BA38EBE1477B313227",
+      "salary_is_predicted": "1",
+      "created": "2023-05-31T23:24:47Z",
+      "contract_time": "Part Time",
+      "contract_type": "Contract",
+      "description": "Job Description £55K - £75K Bournemouth, Hybrid (3 days in the office, 2 WFH) We are looking for x2 JavaScript Developers for a fast-growing start-up in growth mode, and have just hit the 100m user land mark. Our client has just acquired a software company in Bournemouth as the also grow but acquisition. We are now building a new development team to further strengthen the offering in Bournemouth. We initially need 2x Snr JavaScript Developers (FullStack) with strong, ReactJS and NodeJs, ideally…",
+      "title": "Snr Full Stack JavaScript Developer",
+      "location": {
+        "area": [
+          "UK",
+          "South West England",
+          "Dorset",
+          "Bournemouth"
+        ],
+        "display_name": "Bournemouth, Dorset",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 44787,
+      "latitude": 50.721699,
+      "longitude": -1.87853
+    },
+    {
+      "salary_max": 48401,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "id": "4245468139",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjQ1NDY4MTM5In0.c5xovYIQXI1IIfdPr9rBSVhyg1z_V-HSzzJLfcjAmIE",
+      "company": {
+        "display_name": "Pearson Carter",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4245468139?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=98832A1892B38F529B120832F9A9B4FBF39CD744",
+      "salary_is_predicted": "1",
+      "created": "2023-08-06T06:33:09Z",
+      "contract_type": "Temporary",
+      "contract_time": "Full Time",
+      "description": "JavaScript Developer |REMOTE | £60,000 Pearson Carter are currently Working alongside aStart up company whoprovide children who are seriously ill with necessary information on their illness and information on the tools in hospital to put their mind at ease and help with their anxiety They are looking for capable JavaScript Developer to take on new projects and keeping their app alive and updated and work alongside there head of development. Essential Requirements: Javascript / Typescript / node…",
+      "title": "JavaScript Developer-REMOTE",
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "display_name": "Manchester, Greater Manchester",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 58401,
+      "longitude": -2.23438,
+      "latitude": 53.480701
+    },
+    {
+      "id": "4121641959",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_max": 54473,
+      "latitude": 51.503378,
+      "longitude": -0.139134,
+      "salary_min": 69473,
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Senior Full Stack (Javascript) Developer",
+      "description": "As a Senior Experience Technologist, you’ll be working as part of an agile team with other passionate, driven, and talented people, creating innovative solutions for our clients. Your primary responsibilities will include developing interactive web based, mobile, and/or desktop applications using Sapient as well as industry best practices to deliver high value and quality to Sapient clients. Our environment and culture foster growth and present exciting opportunities to hone your skills in the …",
+      "salary_is_predicted": "1",
+      "created": "2023-05-28T01:46:16Z",
+      "contract_time": "Part Time",
+      "contract_type": "Permanent",
+      "company": {
+        "display_name": "Publicis Sapient",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4121641959?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=DAA8D2296E75307D6235CB4A60534452175C579A",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MTIxNjQxOTU5In0.2Lz7oWJaFGIrVtYgJXKXN0E2jnXIn7CBVgRA3ZRGwHc"
+    },
+    {
+      "salary_max": 32068,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "creative-design-jobs",
+        "label": "Creative & Design Jobs"
+      },
+      "id": "4121640532",
+      "company": {
+        "display_name": "Newsroom",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4121640532?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=1A6966C0851F0523B630670B8A502F4BB49BC03F",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MTIxNjQwNTMyIn0.4pFTsArgW1B5Sq77AMQEhXbNlcFTna5XuzeuWb8BQCY",
+      "title": "Senior Javascript Developer",
+      "salary_is_predicted": "1",
+      "created": "2023-05-28T01:45:55Z",
+      "contract_time": "Part Time",
+      "contract_type": "Permanent",
+      "description": "A highly capable and ambitious engineering team, responsible for overcoming difficult technical challenges to bring our users industry leading usability, performance and reliability. We're building a team of individuals with strong fundamentals, good intuition, and an appreciation for clean and functional code, that can stay ahead of industry trends. Salary information: N/A - Depending on experience Responsibilities: We're looking for well-rounded engineers, to help scale our platform and launc…",
+      "salary_min": 42068,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "latitude": 51.503378,
+      "longitude": -0.139134
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "contract_type": "Permanent",
+      "contract_time": "Full Time",
+      "salary_min": 44172,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Manchester, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2023-08-22T16:17:51Z",
+      "description": "Role: JavaScript Developer Type: Permanent Location: Remote Applause IT is recruiting a JavaScript Developer to join a market-leading software solutions company in the UK. This JavaScript Developer will be part of their telematics division, which is the largest in the UK, providing core development SaaS products for their clientel within the vehicle telematics industry. Founded over 30 years ago with offices across 18 different countries, it is a great opportunity for an ambitious JavaScript De…",
+      "company": {
+        "display_name": "Applause IT Recruitment Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "4272726010",
+      "salary_max": 54172,
+      "latitude": 53.480701,
+      "longitude": -2.23438,
+      "title": "JavaScript Developer",
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4272726010?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=B1968EB6C5C5888210921F0D96A8C8A8C89D1C56",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjcyNzI2MDEwIn0.fRYRr_yUZU7XXH5_1Mq-rrudUztKkrECqcBE_xFNKLk"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI2MzQ1OTc0OCIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.YyUKdJdrJ7NkKewvLqhjDLjDROFJTlQdBrx1Na9wfS8",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Noir"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4263459748?utm_medium=api&utm_source=e2582b2a",
+      "created": "2023-08-16T22:22:29Z",
+      "contract_time": "Part Time",
+      "contract_type": "Contract",
+      "salary_is_predicted": "1",
+      "description": "JavaScript Developer JavaScript Developer - UK EduTech Firm - On-site - Birmingham Tech stack: JavaScript Developer, JavaScript, HTML, CSS, Vanilla, jQuery, Frontend Engineer, Frontend Developer, JavaScript Engineer, JavaScript Developer, JavaScript Developer I am recruiting for a JavaScript Developer for a highly successful Edutech Company based in Birmingham.JavaScript Developer JavaScript Developer – UK EduTech Firm – On-site - Birmingham Tech stack: JavaScript Developer, JavaScript, HTML, C…",
+      "title": "JavaScript Developer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "West Midlands",
+          "Birmingham"
+        ],
+        "display_name": "Birmingham, West Midlands",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_min": 60922,
+      "longitude": -1.89359,
+      "latitude": 52.483002,
+      "salary_max": 70922,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "4263459748"
+    },
+    {
+      "contract_type": "Permanent",
+      "contract_time": "Full Time",
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 44772,
+      "created": "2023-08-29T21:27:22Z",
+      "salary_is_predicted": "1",
+      "description": "With significant funding and successful products already on the market, this exciting education tech scale up is now planning significant growth They are looking for a Javascript Developer to design and develop their core platform (a collection of serverless microservice APIs). In your role as a Javascript Developer, you will have the option to work remotely or in a hybrid office space (non-compulsory). Paying up to £75,000, offering multiple benefits such as share options, a work anywhere poli…",
+      "title": "Javascript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjgzNzM4OTkxIn0.TiONlGO5phlB0tU0vGtlm1zlR6XA_mSLbglhq4NwFI8",
+      "company": {
+        "display_name": "IC Resources",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4283738991?utm_medium=api&utm_source=e2582b2a",
+      "id": "4283738991",
+      "salary_max": 52772,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "description": "JavaScript Developer, Reading, Berkshire, £50-60K. You must have a background as a JavaScript developer with experience of React hooks, TypeScript and have worked with React.js and / or Redux, Node or Deno. This role will be best suited to someone who has an interest in frontend architecture and full stack development. You will be responsible for: &x25CF; Being part of making our applications highly performant, scalable and resilient. &x25CF; Being pragmatic and able to iterate quickly; researc…",
+      "created": "2023-08-06T08:38:15Z",
+      "company": {
+        "display_name": "Definitive",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "Permanent",
+      "contract_time": "Part Time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Reading, Berkshire",
+        "area": [
+          "UK",
+          "South East England",
+          "Berkshire",
+          "Reading"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 50000,
+      "salary_max": 60000,
+      "id": "4245548163",
+      "salary_is_predicted": "0",
+      "title": "JavaScript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjQ1NTQ4MTYzIn0.NWS42erZVxSWbgCd0GfKuZIS_nCJQiULS0iO4auSb6Q",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4245548163?utm_medium=api&utm_source=e2582b2a",
+      "latitude": 51.455002,
+      "longitude": -0.969088
+    },
+    {
+      "id": "3760666192",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 44498,
+      "location": {
+        "area": [
+          "UK"
+        ],
+        "display_name": "UK",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 34498,
+      "salary_is_predicted": "1",
+      "created": "2022-12-09T06:03:32Z",
+      "contract_time": "Full Time",
+      "contract_type": "Permanent",
+      "description": "JavaScript Developer -Junior/Mid Level - Up to £50k- ASAP We are looking for someone who is willing to learn and willing to grow within their role - That Passion for the Technology Skills Needed: Language : JavaScript Frameworks: React, React Native and Node If you have experiences with all 3 perfect, but even 1 of the above will be beneficial.",
+      "title": "JavaScript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzc2MDY2NjE5MiIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.ESLKb0Dl3oLUkbafQskujaO8bYsjCvCr1QPASQps2_o",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/3760666192?utm_medium=api&utm_source=e2582b2a",
+      "company": {
+        "display_name": "Nigel Frank International",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "title": "JavaScript Developer",
+      "description": "Group Details: We are looking for JavaScript engineers to build HTML5-based UI products for our global, market-leading trading platform. You will be skilled in Angular, TypeScript, Rx.js, and JavaScript, all of which we are using to build a unified UI for the whole of Tradeweb in a company-wide UI monorepo. As a self-starter, you will be able to take a complex problem and use your own engineering and debugging skills to dissect and analyse it, and distill a clear solution. You will be able to p…",
+      "salary_is_predicted": "1",
+      "created": "2022-12-23T17:19:28Z",
+      "contract_time": "Full Time",
+      "contract_type": "Permanent",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Tradeweb"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/3796971082?utm_medium=api&utm_source=e2582b2a",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzc5Njk3MTA4MiIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.WIZ4wP6swkJHZBZJC8yTP7ONFv0rY8ZZJmBt2KBTQzA",
+      "salary_min": 85291,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_max": 95291,
+      "id": "3796971082"
+    },
+    {
+      "id": "4005454670",
+      "salary_max": 91306,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Borough, South East London",
+        "area": [
+          "UK",
+          "London",
+          "South East London",
+          "Borough"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 88306,
+      "latitude": 51.501286,
+      "longitude": -0.127508,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDAwNTQ1NDY3MCIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.ByblK8EHbdpibFOyzayRkTfmTAAiFPB6c2V5fyjdN4U",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Tradeweb Markets Inc."
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4005454670?utm_medium=api&utm_source=e2582b2a",
+      "description": "Group Details: We are looking for JavaScript engineers to build HTML5-based UI products for our global, market-leading trading platform. You will be skilled in Angular, TypeScript, Rx.js, and JavaScript, all of which we are using to build a unified UI for the whole of Tradeweb in a company-wide UI monorepo. As a self-starter, you will be able to take a complex problem and use your own engineering and debugging skills to dissect and analyse it, and distill a clear solution. You will be able to p…",
+      "salary_is_predicted": "1",
+      "created": "2023-03-28T06:19:45Z",
+      "contract_time": "Full Time",
+      "contract_type": "Contract",
+      "title": "JavaScript Developer"
+    },
+    {
+      "description": "Location: Nottingham Category: Permanent Jobs Salary: 48-50k  4 day working week, Fully remote Ref: JT/LC/5621 Contact Name: Luke Checkley Telephone: 01908 752384 You will have - Experience of PWA development Knowledge of IIFE, service workers & Module Pattern 7 years of .NET software development experience. Proficiency in explaining SOLID principles and discussing design patterns. Implementation of Dependency Injection. Experience with TDD (Test Driven Design). Strong knowledge of MVC and Enti…",
+      "created": "2023-08-04T06:20:41Z",
+      "company": {
+        "display_name": "Interact Consulting Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "Permanent",
+      "contract_time": "Full Time",
+      "salary_min": 55080,
+      "location": {
+        "display_name": "Nottingham, Nottinghamshire",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "East Midlands",
+          "Nottinghamshire",
+          "Nottingham"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Senior Full Stack .Net JavaScript Developer",
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4242044946?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=5D86D35CABB8D631DCA4A62C58AF307B137BDC29",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjQyMDQ0OTQ2In0.atb7LCfs9Rx2rVFJeCb-K1qHeiC-8w7MvKTvgQLql2I",
+      "longitude": -1.14917,
+      "latitude": 52.955101,
+      "salary_max": 65080,
+      "id": "4242044946"
+    },
+    {
+      "created": "2023-05-28T01:44:43Z",
+      "contract_time": "Full Time",
+      "contract_type": "Contract",
+      "salary_is_predicted": "1",
+      "description": "Archive: More than 3,500 project profiles, scores of essays, interviews and reviews. Publish: Post your projects, events, announcements. Education: Tutorials (beginners and advanced) with code examples, downloads. Jobs Archive: Find employers who have recruited here in the past (over 800 jobs). Discounts: Special offers and giveaways (events, books and media). Connect to skilled and talented job-seekers worldwide through direct access to thousands of readers daily on CAN.",
+      "title": "Full Stack Javascript Developer at VMI Studio",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDEyMTYzNDUyMSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.GxUrBxIPj7CLZz708rJ8LGn5FS_ZYl4TQrDbJy4idqY",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4121634521?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=A2DDB7489F94E5175E0E1FA357B13D8EAD7120D5",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Creativeapplications"
+      },
+      "longitude": -0.139134,
+      "latitude": 51.503378,
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 32586,
+      "category": {
+        "label": "PR, Advertising & Marketing Jobs",
+        "tag": "pr-advertising-marketing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 36586,
+      "id": "4121634521"
+    },
+    {
+      "longitude": -1.54912,
+      "latitude": 53.799599,
+      "title": "Senior Full Stack React/Javascript Developer",
+      "salary_is_predicted": "0",
+      "contract_time": "Part Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4287509445?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=9AE5DF04226634798DD86E555141948D47E32FE4",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0Mjg3NTA5NDQ1In0.BP_Gq4tPDkpL4fYpDxWXj_59Wlqiyy85QlxI4rkN-mE",
+      "id": "4287509445",
+      "salary_max": 60000,
+      "contract_type": "Permanent",
+      "salary_min": 70000,
+      "location": {
+        "area": [
+          "UK",
+          "Yorkshire And The Humber",
+          "West Yorkshire",
+          "Leeds"
+        ],
+        "display_name": "Leeds, West Yorkshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Are you looking for an exciting new challenge that will allow you to stretch your coding skills within a fast-paced and dynamic working environment and get involved in the carbon reduction scene? Were looking for motivated individuals, with a passion for developing high-quality applications, APIs and services and delivering them into our production environments. Sound interesting? At Carbon UK Holdings we encourage flexible working that fits the individual as well as the team, whether that be f…",
+      "created": "2023-08-31T23:59:34Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Carbon UK Holdings Ltd"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "latitude": 51.50702,
+      "longitude": -0.127149,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzI5MjUyMzEzMiIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.OL6A3vGlEypX-ZWBBdLz1pojoiJTo2_nbWuFOvqcV6M",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/3292523132?utm_medium=api&utm_source=e2582b2a",
+      "salary_is_predicted": "1",
+      "title": "Javascript Developer-Remote",
+      "id": "3292523132",
+      "salary_max": 80193,
+      "location": {
+        "display_name": "Charing Cross, Central London",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London",
+          "Central London",
+          "Charing Cross"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 70193,
+      "contract_type": "Contract",
+      "contract_time": "Part Time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ChilliFrog"
+      },
+      "created": "2022-07-05T18:31:12Z",
+      "description": "JOB OVERVIEW; JavaScript Developer or Senior JavaScript Developer (HTML5 / Vue.js / REACT / Atlassian tools / CI&CD) sought by exciting technology company start-up (established 2014) and provider of digital marketing optimisation SaaS solutions, integration services and professional services within Big Data, adtech and marketing solutions. CONTRACT TYPE; Permanent employment contract OR long-term contractor on a reasonable £ daily rate SALARY / RATE; Negotiable depending on ability (£60-£80K re…",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "id": "4276360257",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 43472,
+      "longitude": -2.31896,
+      "latitude": 53.460919,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester",
+          "Trafford Park"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Trafford Park, Manchester"
+      },
+      "salary_min": 38472,
+      "salary_is_predicted": "1",
+      "description": "About us Club L London is the next-generation online fashion retailer for the forward-thinking consumer. Founded in 2007 Club L was created with the vision of offering long lasting luxury styles, trend-oriented collections with a twist and unique, statement designs that offer both exceptional quality and fit in an otherwise saturated market of fast fashion and throw away goods. Expertly designed and crafted in-house, Club L specialises in accessible luxury, unique designs and unrivalled quality…",
+      "created": "2023-08-24T18:46:04Z",
+      "contract_type": "Temporary",
+      "contract_time": "Full Time",
+      "title": "JavaScript Developer (Node)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI3NjM2MDI1NyIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.WKBBVAufaabax5vzjNovmj66_qkmS5A__jf7XwyE-0Y",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Club L London"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4276360257?utm_medium=api&utm_source=e2582b2a"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjU4NTI4ODU1In0.s3QRo7gswuLYFf7WJFurB4CV1hfZroGq_gPA2U3YqaA",
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4258528855?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=47B2B893B73FE5CB6F0FB74F5D49B5CF43E7C18B",
+      "salary_is_predicted": "0",
+      "title": "Junior JavaScript Games Developer",
+      "latitude": 52.8069,
+      "longitude": -1.64303,
+      "salary_max": 28000,
+      "id": "4258528855",
+      "company": {
+        "display_name": "GSA Techsource Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "If you are looking to join a high tech industry with a well established and world leading gaming company that rewards you with progression, then look no furtherOur client is looking for a Junior JavaScript Games Developer, to join their Burton upon Trent team, who uses the latest technologies to produce high quality products to clients worldwide. Requirements: - Excellent JavaScript, HTML5 and JSON knowledge and skill- Knowledge of Unit Testing in JavaScript- Good communication skills Desirable…",
+      "created": "2023-08-13T23:54:32Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "West Midlands",
+          "Staffordshire",
+          "Burton-On-Trent"
+        ],
+        "display_name": "Burton-On-Trent, Staffordshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_min": 26000,
+      "contract_type": "Permanent",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "salary_max": 53263,
+      "category": {
+        "label": "Engineering Jobs",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "4252513906",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI1MjUxMzkwNiIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.TzRtZ3h_AY2LzVXtCuHdJADg1V21XdmQcoeht0XUssk",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4252513906?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=69EF44EEDE9485F025C1E3E9F9B1C49E93CB91F1",
+      "contract_time": "Full Time",
+      "contract_type": "Permanent",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "The Esports Network- JobBoard"
+      },
+      "description": "Newcastle upon Tyne, England, United Kingdom Required languages Employment type Full-time Mid-senior level Sector tags Software Engineering, Web Development Description Description Position at LeoVegas UK LeoVegas is where the lions play…and work A fun, agile and fast paced environment connecting 1000 LeoVegas employees with over 60,000 worldwide employees of MGM Resorts International, as our two leading forces come together. We’re culture focused, so if you’re an innovator, initiator and a tea…",
+      "salary_is_predicted": "1",
+      "created": "2023-08-10T03:50:45Z",
+      "title": "JavaScript Developer / Node.JS LeoVegas Group Worldwide iGaming",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "UK",
+        "area": [
+          "UK"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 50263
+    },
+    {
+      "longitude": -0.229095,
+      "latitude": 51.4925,
+      "salary_is_predicted": "0",
+      "title": "JavaScript Developer - Creative/3D",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDIwMDM2NDk5MCIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.zMV2kWsOXV2M0kRXtmVRMi6mVD2wpeQ5QiQvzZVOqjQ",
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4200364990?utm_medium=api&utm_source=e2582b2a",
+      "id": "4200364990",
+      "salary_max": 75000,
+      "contract_type": "Permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Hammersmith, West London",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London",
+          "West London",
+          "Hammersmith"
+        ]
+      },
+      "salary_min": 55000,
+      "description": "JavaScript / TypeScript Developer - Creative Studio Are you a JavaScript Developer with a creative flair and an interest in AR and VR? We are looking for a JavaScript Developer to work for a dynamic, friendly and award winning AR and VR company who are passionate about creating augmented and mixed reality experiences which reach millions of users worldwide. The JavaScript Developer will be building some really exciting, revolutionary tools using JavaScript and Web Technologies. You will be taki…",
+      "created": "2023-07-11T17:59:04Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Client Server"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Warnham, Horsham",
+        "area": [
+          "UK",
+          "South East England",
+          "West Sussex",
+          "Horsham",
+          "Warnham"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 79713,
+      "latitude": 51.082938,
+      "longitude": -0.340832,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDIxNDc4NDQ3NiIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.MRkZKnYF6X7dVsly2--9cvl16LGGDU9-7apWowoIj-Q",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4214784476?utm_medium=api&utm_source=e2582b2a",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Client Server"
+      },
+      "salary_is_predicted": "1",
+      "created": "2023-07-20T11:01:00Z",
+      "contract_time": "Part Time",
+      "contract_type": "Permanent",
+      "description": "JavaScript Developer (Angular 13) Reigate / WFH to 85k Are you a skilled JavaScript Developer with strong modern Angular skills? You could be progressing your career at a global FinTech and working on a new front end for the visualisation of complex and interesting mathematically based algorithms (insurance reserving data). As a JavaScript Developer you will work across the full development lifecycle, liaising with the Product Owner to define, refine and deliver against the product backlog. You…",
+      "title": "JavaScript Developer Angular 13",
+      "id": "4214784476",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "display_name": "Client Server",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_max": 89713
+    },
+    {
+      "salary_max": 85000,
+      "id": "4265110109",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjY1MTEwMTA5In0.NzUapkILDQFbdAIWbzgVyHyPsNiKbRpzYyQ4dXC8Glo",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4265110109?utm_medium=api&utm_source=e2582b2a",
+      "salary_is_predicted": "0",
+      "title": "JavaScript Developer Angular 15",
+      "latitude": 51.237598,
+      "longitude": -0.205832,
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Client Server"
+      },
+      "description": "JavaScript Developer (Angular 15) Reigate / WFH to £85k Are you a skilled JavaScript Developer with strong modern Angular skills? You could be progressing your career at a global FinTech and working on a new front end for the visualisation of complex and interesting mathematically based algorithms (insurance reserving data). As a JavaScript Developer you will work across the full development lifecycle, liaising with the Product Owner to define, refine and deliver against the product backlog. Yo…",
+      "created": "2023-08-17T21:02:32Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "South East England",
+          "Surrey",
+          "Reigate"
+        ],
+        "display_name": "Reigate, Surrey",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_min": 75000,
+      "contract_type": "Permanent",
+      "contract_time": "Full Time"
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4283431940?utm_medium=api&utm_source=e2582b2a",
+      "contract_time": "Full Time",
+      "company": {
+        "display_name": "Pearson Carter",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjgzNDMxOTQwIn0.htwLLB7FOLltsEY7jp-ifI_2IvinzEZYeE8rAlnGw-8",
+      "title": "JavaScript Developer-Remote",
+      "salary_is_predicted": "0",
+      "description": "fully remote JavaScript Developer, 50k Pearson Carter are currently working with a large insurance client who are working with companies such as the NHS and Ministry of Defense, they are looking for an ambitious JavaScript Developer who is confident on working in projects from scratch and can evolve with the company. This Company is up to date with the latest technologies and have big plans to expand their development team in the near future. Responsibilities: Key responsibilities will include …",
+      "created": "2023-08-29T17:28:41Z",
+      "salary_min": 40000,
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "Permanent",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 50000,
+      "id": "4283431940"
+    },
+    {
+      "contract_type": "Permanent",
+      "contract_time": "Full Time",
+      "location": {
+        "area": [
+          "UK",
+          "London",
+          "Central London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Central London, London"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 49871,
+      "description": "Seneca uses Cognitive Neuroscience to boost understanding, and retention & learning by 30-80%. By learning more quickly and durably students at school and young professionals can free up countless hours of leisure time, while also performing better in their exams. We are looking for front end developers with extensive experience in: React  Redux Node  Express Jest or equivalent testing framework By working with us you will have a real impact on society whilst earning a competitive salary with e…",
+      "created": "2023-06-30T21:12:17Z",
+      "company": {
+        "display_name": "Seneca Learning",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": -0.11126,
+      "latitude": 51.51985,
+      "salary_is_predicted": "1",
+      "title": "Full Stack Javascript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE3OTk1NDQxMSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.XzpM1r3hdHImpLLriUwGNEG3u5VTV4w2TvP2yoAEn4M",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4179954411?utm_medium=api&utm_source=e2582b2a",
+      "id": "4179954411",
+      "salary_max": 52871
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "salary_min": 60000,
+      "contract_type": "Permanent",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI3NDUzOTk5MSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.gCT3yDVUuQyRbeoCQa2HBguvkWgXV3AQXknvveil59Q",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4274539991?utm_medium=api&utm_source=e2582b2a",
+      "contract_time": "Full Time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Pearson Carter"
+      },
+      "description": "Senior Full Stack Developer, £80,000 Pearson Carter are currently working with a reputable, technology company who provide personalised experiences to fashion consumers through the use of AI. They are looking to expand their team as they are wanting to expand on their global clientele within the luxury fashion industry. They are looking for someone who has had extensive experience being a full stack developer and a senior team leader. They offer an excellent salary of up £80K depending on exper…",
+      "salary_is_predicted": "0",
+      "created": "2023-08-23T17:23:43Z",
+      "title": "Senior JavaScript Developer",
+      "id": "4274539991",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 65000
+    },
+    {
+      "salary_max": 72000,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "4289899984",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4289899984?utm_medium=api&utm_source=e2582b2a",
+      "contract_time": "Full Time",
+      "company": {
+        "display_name": "Pearson Carter",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI4OTg5OTk4NCIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.o3dECgq2kiSFeWm8z02MNe_xAVdbQtoQA6WR6gJEnL0",
+      "title": "Senior JavaScript Development ",
+      "salary_is_predicted": "0",
+      "description": "Senior Full Stack Developer, £80,000 Pearson Carter are currently working with a reputable, technology company who provide personalised experiences to fashion consumers through the use of AI. They are looking to expand their team as they are wanting to expand on their global clientele within the luxury fashion industry. They are looking for someone who has had extensive experience being a full stack developer and a senior team leader. They offer an excellent salary of up £80K depending on exper…",
+      "created": "2023-09-01T17:47:48Z",
+      "salary_min": 67000,
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "Permanent"
+    },
+    {
+      "contract_type": "Permanent",
+      "contract_time": "Part Time",
+      "location": {
+        "area": [
+          "UK",
+          "London",
+          "Central London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Central London, London"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 38053,
+      "description": "Opearlo is a Voice Design Agency that helps organisations make their products, services and content accessible through voice by building voice apps, using Amazon Alexa, Microsoft Cortana, and Google Home. As our new team member, you would be doing the following: Building Alexa Skills Improving Opearlo Analytics, a platform to track Alexa Skill usage You have the following experience: Javascript, React, nodeJS Alexa Skills Kit In an ideal world, you would also have experience in: API Integration…",
+      "created": "2023-08-12T22:15:26Z",
+      "company": {
+        "display_name": "Opearlo",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 51.51985,
+      "longitude": -0.11126,
+      "salary_is_predicted": "1",
+      "title": "Junior/Mid Javascript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjU3MjU1MTk2In0.TJufuSO1T6HOO9H73ni5p9i-AJCRMMtlU8uOMXTwwck",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4257255196?utm_medium=api&utm_source=e2582b2a",
+      "id": "4257255196",
+      "salary_max": 39053
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_max": 40066,
+      "id": "4126900099",
+      "title": "Javascript Application Developer (EPOS)",
+      "created": "2023-05-31T23:26:05Z",
+      "contract_time": "Part Time",
+      "contract_type": "Contract",
+      "salary_is_predicted": "1",
+      "description": "We are seeking a Javascript Application Developer This is a unique opportunity to join a Company in the middle of a lot of growth and opportunity Please do not hesitate to get in touch if you’re interested. ABOUT DIGITICKETS DigiTickets provides award-winning software solutions to the Tourism, Leisure and Events Industries. Trusted by over 600 venues globally to process over 1 million ticket sales per month, and approximately £300,000,000 in revenues annually we work tirelessly to ensure we und…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "DigiTickets"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4126900099?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=0FD208B94B65D19E1DC9AD48605D3DD907A6237F",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDEyNjkwMDA5OSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.uCULQb-e0AF3sfbSYywoO3XrU62Bs7vjaZjjfvdPkio",
+      "latitude": 50.721802,
+      "longitude": -3.53362,
+      "salary_min": 42066,
+      "location": {
+        "area": [
+          "UK",
+          "South West England",
+          "Devon",
+          "Exeter"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Exeter, Devon"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "title": "Front End Developer",
+      "display_name": "Udemig",
+      "area": "Sweden",
+      "contract_time": "Full Time",
+      "contract_type": "Permanent",
+      "created": "2023-09-06T11:45:50.200Z",
+      "salary_min": "50000",
+      "salary_max": "60000",
+      "id": "e4f4e79b-e21b-4024-89d7-f6688c0fefa4",
+      "company": {
+        "display_name": "Udemig"
+      },
+      "location": {
+        "area": [
+          "S",
+          "Sweden"
+        ]
+      }
+    },
+    {
+      "title": "React Native",
+      "display_name": "Udemig",
+      "area": "Sweden",
+      "contract_time": "Part Time",
+      "contract_type": "Permanent",
+      "created": "2023-09-06T15:06:48.249Z",
+      "salary_min": "30000",
+      "salary_max": "40000",
+      "id": "27c8b73e-900d-460b-be11-926083e559bd",
+      "company": {
+        "display_name": "Udemig"
+      },
+      "location": {
+        "area": [
+          "S",
+          "Sweden"
+        ]
+      }
+    }
+  ],
+  "jobFavorites": [
+    {
+      "title": "Front End Developer",
+      "display_name": "Udemig",
+      "area": "Sweden",
+      "contract_time": "Full Time",
+      "contract_type": "Permanent",
+      "created": "2023-09-06T11:45:50.200Z",
+      "salary_min": "50000",
+      "salary_max": "60000",
+      "id": "e4f4e79b-e21b-4024-89d7-f6688c0fefa4",
+      "company": {
+        "display_name": "Udemig"
+      },
+      "location": {
+        "area": [
+          "S",
+          "Sweden"
+        ]
+      }
+    }
+  ],
+  "jobApply": [],
+  "filterJobs": [
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "created": "2023-08-31T23:52:48Z",
+      "description": "A unique job has opened up for a motivated JavaScriptDeveloper A niche yetexpanding subsurface data software company in Aberdeen is looking to recruit an enthusiastic developer due to organic growth. Youll work on new greenfield projects for a global client base and will focus on front-end development using JavaScript as well as React development. Our client is a small but expanding business and this is an opportunity for a dedicateddeveloper to make a significant impact on the project and busi…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Bright Purple"
+      },
+      "contract_type": "Permanent",
+      "contract_time": "Full Time",
+      "salary_min": 40000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "Scotland",
+          "Aberdeenshire",
+          "Aberdeen"
+        ],
+        "display_name": "Aberdeen, Aberdeenshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_max": 60000,
+      "id": "4287506407",
+      "title": "JavaScript Developer",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4287506407?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=CA18DA90B0D6357DE3BAAFC31E6ABEA38CFC0DE2",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI4NzUwNjQwNyIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.hRU_URof19KhaWOQIswQbcqW93q_03etl-9EzyN0aQE",
+      "latitude": 57.147499,
+      "longitude": -2.0954
+    },
+    {
+      "id": "4257231990",
+      "salary_max": 40000,
+      "latitude": 57.147499,
+      "longitude": -2.0954,
+      "salary_is_predicted": "0",
+      "title": "JavaScript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjU3MjMxOTkwIn0.bha4UOEZ2cWzT3twzuYsPFRXACkEflduVc95sCTi8eo",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4257231990?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=C53E46B81DCA6AE593755C87BE5E65655F043A9E",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_type": "Permanent",
+      "contract_time": "Part Time",
+      "location": {
+        "area": [
+          "UK",
+          "Scotland",
+          "Aberdeenshire",
+          "Aberdeen"
+        ],
+        "display_name": "Aberdeen, Aberdeenshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 30000,
+      "created": "2023-08-12T21:21:20Z",
+      "description": "A unique job has opened up for a motivated JavaScript Developer A niche yetexpanding subsurface data software company in Aberdeen is looking to recruit an enthusiastic developer due to organic growth. Youll work on new greenfield projects for a global client base and will focus on front-end development using JavaScript as well as React development. Our client is a small but expanding business and this is an opportunity for a dedicateddeveloper to make a significant impact on the project and bus…",
+      "company": {
+        "display_name": "Bright Purple",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "id": "4257231997",
+      "salary_max": 55000,
+      "latitude": 56.709301,
+      "longitude": -2.4674,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4257231997?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=FF986D48A2928DAACE9341460DD474BE6572062E",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI1NzIzMTk5NyIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.l9pPbAfX0IKRMPNZAdMrEltB4VBoIqdyTqaOXn73ZZ0",
+      "title": "JavaScript Developer",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_min": 40000,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Montrose, Angus",
+        "area": [
+          "UK",
+          "Scotland",
+          "Angus",
+          "Montrose"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "Temporary",
+      "contract_time": "Full Time",
+      "company": {
+        "display_name": "Bright Purple",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2023-08-12T21:21:20Z",
+      "description": "A unique job has opened up for a motivated JavaScript Developer A niche yetexpanding subsurface data software company in Aberdeen is looking to recruit an enthusiastic developer due to organic growth. Youll work on new greenfield projects for a global client base and will focus on front-end development using JavaScript as well as React development. Our client is a small but expanding business and this is an opportunity for a dedicateddeveloper to make a significant impact on the project and bus…"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "display_name": "Premier IT",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "Senior Frontend JavaScript Developer Oxford - Once a month in the office£60,000-£80,000Are you an experienced Frontend Developer looking for your next challenge? Would once a month office working in Oxford be a reasonable commute?I’m currently working for a global business who are well established within the online gaming/gambling industry and looking for a Senior JavaScript Developer to their growing team. The company have been going for over 20 years and have a well-established team of over 2…",
+      "created": "2023-08-24T00:20:18Z",
+      "location": {
+        "display_name": "Oxford, Oxfordshire",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South East England",
+          "Oxfordshire",
+          "Oxford"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 33000,
+      "salary_max": 45000,
+      "contract_type": "Temporary",
+      "id": "4275039147",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI3NTAzOTE0NyIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.inQB7rcRuE10RFwl6LdUIylGGkGHZ6-G8Rr_VUrfBSo",
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4275039147?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=8E1481C5B3BEE82D95E8F96DE748BAC345F5D92E",
+      "salary_is_predicted": "0",
+      "title": "JavaScript Developer",
+      "latitude": 51.7523,
+      "longitude": -1.25588
+    },
+    {
+      "salary_is_predicted": "0",
+      "title": "Javascript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0Mjc1ODkwMDcyIn0.8tl4JDLc85KdqyxGsSmoXIUA1fAH04SGTHuKUiAdttg",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4275890072?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=C2D2AE6C282462F75F0675CB28E9C6C30667E9BA",
+      "contract_time": "Full Time",
+      "longitude": -2.23438,
+      "latitude": 53.480701,
+      "salary_max": 80000,
+      "id": "4275890072",
+      "created": "2023-08-24T12:23:47Z",
+      "description": "My client are a Manchester based, SaaS business looking to grow their 50 strong development team significantly (but steadily) after several funding rounds in recent years. Their most recent round of investment (close to £100m) means they are looking for Javascript Developers of varying levels to join their like-minded team. All new developers (regardless of level) join an incubator squad for 2-3 months where you learn about the different project teams, shadow other developers, get to grips with…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Better Placed Limited"
+      },
+      "contract_type": "Permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Manchester, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ]
+      },
+      "salary_min": 40000,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "title": "JavaScript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0Mjc1MzQ0MzIwIn0.clZgKhAMG4u27x7mWTJtIMCRCySAAtYt85LtiLcXcSo",
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4275344320?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=9A93719E318621E379E06AC51E868CEFBFFD55C0",
+      "latitude": 52.483002,
+      "longitude": -1.89359,
+      "salary_max": 38000,
+      "id": "4275344320",
+      "description": "JavaScript Developer JavaScript Developer - UK EduTech Firm - On-site - Birmingham (Tech stack: JavaScript Developer, JavaScript, HTML, CSS, Vanilla, jQuery, Frontend Engineer, Frontend Developer, JavaScript Engineer, JavaScript Developer, JavaScript Developer) I am recruiting for a JavaScript Developer for a highly successful Edutech Company based in Birmingham. They have led this education industry for over 20 years with the focus on educating adults and children in the most entertaining and …",
+      "created": "2023-08-24T04:23:42Z",
+      "company": {
+        "display_name": "Noir",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "Temporary ",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Birmingham, West Midlands",
+        "area": [
+          "UK",
+          "West Midlands",
+          "Birmingham"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 25000,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "description": "JavaScript Developer A brand new and exciting opportunity has recently arisen for a JavaScript Developer with an extensive knowledge in JavaScript, CCS and HTML to join the UK's Largest NHS department based remote. As the JavaScript Developer you will be designing new user interfaces through the use of wireframes and implement new web platforms to improve accessibility. This is an excellent opportunity for a JavaScript Developer who is looking to upskill in AWS, Node.Js and to work for the Larg…",
+      "salary_is_predicted": "0",
+      "created": "2023-08-29T20:36:24Z",
+      "title": "JavaScript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI4MzcwNDY2MSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.r4UZJ_aG7FSnqNbOGHxWI9Ruxvz3LSe5E1wZuV3xxqs",
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4283704661?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=9A0D80DFB91CF05CF9A755D644D247BB95F85998",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Understanding Recruitment"
+      },
+      "contract_type": "Permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "salary_min": 37000,
+      "salary_max": 47500,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "id": "4283704661"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "description": "JavaScript Developer - Fully remote (£55k-£65k)This is an excellent opportunity to work on an already very successful SAAS product that helps support the health, safety and wellbeing of students and school staff across the UK.This fully-remote role can be filled from anywhere within the UK , is paying between £55k and £65k per annum. THE ROLE:Working within a small, cohesive software engineering team, you will be leading initiatives to expand on the existing platform by adding a wide range of n…",
+      "created": "2023-08-29T20:36:34Z",
+      "company": {
+        "display_name": "Lorien",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "Permanent",
+      "location": {
+        "display_name": "Manchester, Greater Manchester",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 55000,
+      "salary_max": 65000,
+      "id": "4283704675",
+      "salary_is_predicted": "0",
+      "title": "JavaScript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI4MzcwNDY3NSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.5381W15i_IgEgN3OqfD_9BcudV11-YFSo_drTfyE1-Q",
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4283704675?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=ACA0533721D5AEB9DB5BC7F9980FEFABDB5EC9C5",
+      "latitude": 53.480701,
+      "longitude": -2.23438
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_max": 90000,
+      "id": "4248183201",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI0ODE4MzIwMSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.O0C3bVC9RIMvQi-E84PD4ThqFVXpVpWAvCLuTOX4Qx4",
+      "company": {
+        "display_name": "Harnham   Data & Analytics Recruitment",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4248183201?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=D10691ED53AA49F498C0A5305D794430AEE89ECD",
+      "description": "Senior JavaScript Developer Up to £90,000 Hybrid (London) A leading insurance company is looking for a software engineer to help be the sole developer within their data science team. You will be responsible for building web applications and working on new projects every quarter. Responsibilities Develop and maintain web and mobile applications using modern full-stack technologies. Collaborate with product managers and designers to translate business requirements into technical specifications. E…",
+      "salary_is_predicted": "0",
+      "created": "2023-08-07T20:23:26Z",
+      "title": "Senior JavaScript Developer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "salary_min": 70000,
+      "contract_type": "Permanent"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Better Placed Limited"
+      },
+      "description": "My client are a Manchester based, SaaS business looking to grow their 50 strong development team significantly (but steadily) after several funding rounds in recent years. Their most recent round of investment (close to £100m) means they are looking for a Senior Javascript Developer to join their like-minded team. As a Senior/ Lead Developer, you'll have a high level of competence using JavaScript and related frameworks and libraries as well as enjoying being a mentor to more junior developers …",
+      "created": "2023-08-24T12:18:52Z",
+      "salary_min": 60000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Manchester, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ]
+      },
+      "contract_type": "Permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4275867101?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=72589CE0098F5803E900223D862DEA787A119175",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0Mjc1ODY3MTAxIn0.k2ei9-Gog9kwGqIPnE-Ou-Qj9R_0n9vUxjR4P4hjlHc",
+      "title": "Senior Javascript Developer",
+      "salary_is_predicted": "0",
+      "longitude": -2.23438,
+      "latitude": 53.480701,
+      "salary_max": 75000,
+      "id": "4275867101"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "Permanent",
+      "salary_min": 70000,
+      "location": {
+        "display_name": "Manchester, Greater Manchester",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Senior JavaScript Developer - Fully remote (£70k-£80k)This is an excellent opportunity to work on an already very successful SAAS product that helps support the health, safety and wellbeing of students and school staff across the UK.This fully-remote role can be filled from anywhere within the UK , is paying between £70k and £80k per annum. THE ROLE:Working within a small, cohesive software engineering team, you will be leading initiatives to expand on the existing platform by adding a wide ran…",
+      "created": "2023-08-30T00:30:19Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Lorien"
+      },
+      "id": "4283836297",
+      "salary_max": 80000,
+      "latitude": 53.480701,
+      "longitude": -2.23438,
+      "title": "Senior JavaScript Developer",
+      "salary_is_predicted": "0",
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4283836297?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=EA53E843A17F75284F58BB2B34BE1565822D5234",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI4MzgzNjI5NyIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.-z3Ue-Jl7nFACaowlb_N1MBDb4Rj33dshWQEXQT6JTw"
+    },
+    {
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4277600337?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=61A37C541A77EC3612D29EE1950AC10B93D3F0C6",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Reed Talent Solutions"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0Mjc3NjAwMzM3In0.gOKEkKKDFE3Bna1JIbT67A_QmhmfrGG7-oUCUTD9e2o",
+      "title": "Senior JavaScript Developer",
+      "salary_is_predicted": "0",
+      "description": "Main Duties of the Job This is a hands-on development role in which you will develop and deploy new products as well as developing and enhancing UKHSA’s existing products and apps. You will work with business and technology stakeholders to translate business problems into technical designs. You will collaborate with UI, connectivity and DevOps teams in order to build elegant solutions to complex problems. You will use the Scrum agile delivery methodology and deliver software in short iterations…",
+      "created": "2023-08-25T16:21:58Z",
+      "salary_min": 37056,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "contract_type": "Permanent",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 45998,
+      "id": "4277600337"
+    },
+    {
+      "salary_max": 62286,
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "4277604121",
+      "title": "Lead JavaScript Developer",
+      "salary_is_predicted": "0",
+      "created": "2023-08-25T16:30:23Z",
+      "description": "Main Duties of the Job Lead the development and maintenance of UKHSA’s portfolio of apps and websites Define the technical requirements for the implementation of new software solutions Define the technical aspects of the application solution architecture, including the technology used, methodology followed, and devices/platforms targeted Prepare technical solution and architecture documents, work products and presentations Define security protocols, analytics and social channel integration Desi…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Reed Talent Solutions"
+      },
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4277604121?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=F9FED6035A92AFBF8CD9EDF8DCF260BF9AD15245",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI3NzYwNDEyMSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.JiMwiKxfHTuwP0eLy7MI-_9TknePyA3jkHRQ2ZDLNJ4",
+      "contract_type": "Permanent",
+      "salary_min": 49592,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      }
+    },
+    {
+      "salary_max": 50546,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "4260587601",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI2MDU4NzYwMSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.XX684fRbD5_oGJi-8OKd6Hwu-MoftTGIqzNhuyiCNe4",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Bright Purple"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4260587601?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=17139D6493099089E3041756A790ED8B71C04B72",
+      "salary_is_predicted": "1",
+      "description": "A unique job has opened up for a motivated JavaScript Developer A niche yetexpanding subsurface data software company in Aberdeen is looking to recruit an enthusiastic developer due to organic growth. You’ll work on new greenfield projects for a global client base and will focus on front-end development using JavaScript as well as React development. Our client is a small but expanding business and this is an opportunity for a dedicateddeveloper to make a significant impact on the project and bu…",
+      "created": "2023-08-15T05:01:46Z",
+      "title": "JavaScript Developer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Aberdeen, Aberdeenshire",
+        "area": [
+          "UK",
+          "Scotland",
+          "Aberdeenshire",
+          "Aberdeen"
+        ]
+      },
+      "salary_min": 50546,
+      "contract_type": "Permanent",
+      "contract_time": "Part Time"
+    },
+    {
+      "id": "4130183733",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 65762,
+      "latitude": 51.503378,
+      "longitude": -0.139134,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 35762.44,
+      "created": "2023-06-02T02:00:31Z",
+      "salary_is_predicted": "1",
+      "contract_time": "Part Time",
+      "contract_type": "Contract",
+      "description": "File: /home/xhyyjfknxmvj/public_html/application/views/pages/job-detail.php Line: 23 Function: _error_handler File: /home/xhyyjfknxmvj/public_html/application/views/includes/main.php Line: 71 Function: view File: /home/xhyyjfknxmvj/public_html/index.php Line: 315 Function: require_once File: /home/xhyyjfknxmvj/public_html/application/views/pages/job-detail.php Line: 23 Function: _error_handler File: /home/xhyyjfknxmvj/public_html/application/views/includes/main.php Line: 71 Function: view File:…",
+      "title": "Javascript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDEzMDE4MzczMyIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.yE-J8OvI8bzaQKsqaHF3JPtc6ewck1VlDwgy4tY27_A",
+      "company": {
+        "display_name": "Thedataheads",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4130183733?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=5FD004CD3BE0504BF5C789E4D0CDA618B45F1ED2"
+    },
+    {
+      "salary_min": 32417,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Birmingham, West Midlands",
+        "area": [
+          "UK",
+          "West Midlands",
+          "Birmingham"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "JavaScript Developer",
+      "salary_is_predicted": "1",
+      "contract_time": "Part Time",
+      "contract_type": "Permanent",
+      "created": "2023-09-03T01:52:24Z",
+      "description": "Pearson Carter are working with a client that is building the future of accessibility – come and join their mission of achieving accessibility for all. Recite Me is the leading provider of cloud accessibility and digital inclusion software. A true Global SaaS success story, our flagship accessibility toolbar is used by thousands of organizations globally, including many household names, and we are on a journey towards our goal of accessibility for all. As an innovative tech company in a period …",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4292316360?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=CDF67F2F9056C243DB8307BA6E13D2D9AF56B0E0",
+      "company": {
+        "display_name": "Pearson Carter",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjkyMzE2MzYwIn0.oviCM0aEfnh9hzfNerxCdHfRBF5S9A9mlsdPWSRYahg",
+      "id": "4292316360",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_max": 45417
+    },
+    {
+      "id": "4269773625",
+      "salary_max": 55000,
+      "latitude": 51.897999,
+      "longitude": -2.07131,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4269773625?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=EBD79609D3E8AE1A04A2E6EDF510D9CCB136ED89",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjY5NzczNjI1In0.GZq21PqwA7Lz3fWOHB1ovMeSKJVe_lLdjeXFpOGWtJ4",
+      "title": "JavaScript Developer",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 35000,
+      "location": {
+        "area": [
+          "UK",
+          "South West England",
+          "Gloucestershire",
+          "Cheltenham"
+        ],
+        "display_name": "Cheltenham, Gloucestershire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "Permanent",
+      "contract_time": "Full Time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Eclipse Total Solutions Limited"
+      },
+      "created": "2023-08-21T05:31:47Z",
+      "description": "JavaScript Developer (2 Years Experience) In this role, you'll dive headfirst into dynamic projects and collaborate closely with our talented teams. Your deep understanding of JavaScript and its ecosystem will drive the development of feature-rich applications that elevate our clients' presence. If you're a problem solver, a creative thinker, and a dedicated coder, we want you on our team. Responsibilities: Work closely with our clients and internal stakeholders to translate requirements into t…"
+    },
+    {
+      "description": "Full Stack Javascript Developer - Fully remote (must be UK based) - £50,000 to £85,000 Apointe are excited to be working with out hires as they look to add to their Development team - we are on the hunt for Full Stack Javascript Developers. As a thriving digital market place provider connecting customers with great local businesses, as well as others across the UK. This is an exciting opportunity to work in a dynamic and friendly environment where you can make a real impact on their platform. R…",
+      "created": "2023-08-24T08:28:47Z",
+      "company": {
+        "display_name": "APOINTE LIMITED",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "Permanent",
+      "salary_min": 50000,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Reading, Berkshire",
+        "area": [
+          "UK",
+          "South East England",
+          "Berkshire",
+          "Reading"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "title": "Full Stack Javascript Developer",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4275592316?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=616B6FB2AD256229A16ACBE2516C6EEA9D562E0D",
+      "contract_time": "Full Time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI3NTU5MjMxNiIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.8Th563rWlVHgi2C7QTMgO4Jn915fo9xSQZnl-IMyDuE",
+      "latitude": 51.455002,
+      "longitude": -0.969088,
+      "salary_max": 85000,
+      "id": "4275592316"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 61632,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "contract_type": "Contract",
+      "contract_time": "Part Time",
+      "company": {
+        "display_name": "Apollo Solutions Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2023-08-13T04:28:48Z",
+      "description": "Full-stack Developer PHP and Javascript / Backend - PHP / Frontend Javascript - Mid-level - Senior Remote - Open to EU and UK 4 month rolling term (long term) 1 stage interview process Outside IR35 Your Responsibilities: • Provide technical support to the business on web application, using your experience of the programming language - PHP and Javascript. • You'll be designing and implementing a web application application hosted on AWS. • You'll collaborate closely with product and design teams…",
+      "id": "4257544905",
+      "salary_max": 75000,
+      "latitude": 51.503378,
+      "longitude": -0.139134,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4257544905?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=D68984204A30105A9AC46F4927E1E6CD047483A5",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI1NzU0NDkwNSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.apoizu4ek1OEz1mpLLtjzQMtJjq07jPgF1CZegU5K3E",
+      "title": "PHP and Javascript Developer",
+      "salary_is_predicted": "1"
+    },
+    {
+      "title": "Lead JavaScript Developer",
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4126899513?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=02FA305CB5189856EE98EAE6F27E29AB42CF78FC",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDEyNjg5OTUxMyIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.aLtvkKw3aT58l1g2YDhPMzwu5OU5PRdk7ZJSpraWwls",
+      "latitude": 53.7244,
+      "longitude": -1.86158,
+      "salary_max": 42639,
+      "id": "4126899513",
+      "description": "If so, drop us a line by clicking one of the below options. Not quite the right fit? Submit your ideal criteria here and you'll automatically be alerted when we register a newcandidate that fits the bill. They have started several roles as a Senior Developer and quickly been promoted into a Lead position, improving development processes, implementing CI/CD, Agile working, TDD and BDD. They lead by example and love to remain hands-on with development and team management. They currently looking f…",
+      "created": "2023-05-31T23:26:00Z",
+      "company": {
+        "display_name": "Impact Search",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "Contract",
+      "contract_time": "Full Time",
+      "salary_min": 54439,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "Yorkshire And The Humber",
+          "West Yorkshire",
+          "Halifax"
+        ],
+        "display_name": "Halifax, West Yorkshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Pearson Carter"
+      },
+      "created": "2023-08-24T08:19:41Z",
+      "description": "Pearson Carter are working with a client that Operate across the Industrial & manufacturing, Defense, Healthcare, Education and Utilities sector. They are looking for a Senior Full Stack React Developer to expand their front and backend teams. They offer remote work and industry-leading benefits. My client are looking for JavaScript / React Full Stack Developers. Responsibilities - Assisting in the development of their in-house system - Enhancing carious aspects of their core software - Develop…",
+      "location": {
+        "area": [
+          "UK",
+          "East Midlands",
+          "Nottinghamshire",
+          "Nottingham"
+        ],
+        "display_name": "Nottingham, Nottinghamshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 40000,
+      "contract_type": "Permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0Mjc1NTc4OTYzIn0.HykXy-wv7bUsBun70prZ_4-9oxauo_8RnQwLgJ9WwM0",
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4275578963?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=BB4E604E4997D8B09B4E07C41AB345458DC1BE2F",
+      "salary_is_predicted": "0",
+      "title": "Senior Full Stack JavaScript Developer",
+      "longitude": -1.14917,
+      "latitude": 52.955101,
+      "salary_max": 50000,
+      "id": "4275578963"
+    },
+    {
+      "salary_max": 51391,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "id": "4245466150",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Pearson Carter"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4245466150?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=AF7048DA9919C0097E3DD36BD0B96BD0F30C52EB",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjQ1NDY2MTUwIn0.nOLt0xIZo1LDfZLaW1L2npK-71mAtYZm_E5UZOcM6WY",
+      "title": "JavaScript Developer-Remote ",
+      "salary_is_predicted": "1",
+      "created": "2023-08-06T06:31:59Z",
+      "contract_type": "Temporary",
+      "contract_time": "Full Time",
+      "description": "JavaScript Developer | Remote | 60k Pearson Carter are currently Working alongside a start up company whoprovide children who are seriously ill with necessary information on their illness and the tools in hospital to put their mind at ease and help with their anxiety. They are looking for capable JavaScript Developer to take on new projects and keeping their app alive and updated and work alongside there head of development. Essential Requirements: ● Javascript / Typescript / node.js (minimum 3…",
+      "salary_min": 58000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK"
+        ]
+      }
+    },
+    {
+      "id": "4288415549",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_max": 47127,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "salary_min": 32127,
+      "longitude": -0.139134,
+      "latitude": 51.503378,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0Mjg4NDE1NTQ5In0.nMBSt0QTn8IcjYMVVjrdIZ7iaNetqwSZHOiXJMj0M8I",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4288415549?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=FD23D99559478A216F2C384625AD1DF956B42BDB",
+      "company": {
+        "display_name": "Pearson Carter",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "fully remoteJavaScriptDeveloper, 50k Pearson Carter are currently working with a largeinsuranceclientwho are working with companies such as the NHS and Ministry of Defense, they are looking for an ambitious JavaScript Developerwho is confident on workinginprojects from scratchand canevolve with the company. This Company is up to date with the latest technologies and have big plans to expand their development team in the near future. Responsibilities: Key responsibilities will include assisting …",
+      "salary_is_predicted": "1",
+      "contract_time": "Part Time",
+      "contract_type": "Permanent",
+      "created": "2023-09-01T08:18:14Z",
+      "title": "JavaScript Developer-Remote"
+    },
+    {
+      "salary_max": 56787,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "id": "4126891698",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDEyNjg5MTY5OCIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.HrXhNEPd975yUx3zc6D0tj6WCG5_OETzP0Cse05F8Zc",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Stafford Sharp Associates"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4126891698?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=5781F4A6482D28E596EEF5BA38EBE1477B313227",
+      "salary_is_predicted": "1",
+      "created": "2023-05-31T23:24:47Z",
+      "contract_time": "Part Time",
+      "contract_type": "Contract",
+      "description": "Job Description £55K - £75K Bournemouth, Hybrid (3 days in the office, 2 WFH) We are looking for x2 JavaScript Developers for a fast-growing start-up in growth mode, and have just hit the 100m user land mark. Our client has just acquired a software company in Bournemouth as the also grow but acquisition. We are now building a new development team to further strengthen the offering in Bournemouth. We initially need 2x Snr JavaScript Developers (FullStack) with strong, ReactJS and NodeJs, ideally…",
+      "title": "Snr Full Stack JavaScript Developer",
+      "location": {
+        "area": [
+          "UK",
+          "South West England",
+          "Dorset",
+          "Bournemouth"
+        ],
+        "display_name": "Bournemouth, Dorset",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 44787,
+      "latitude": 50.721699,
+      "longitude": -1.87853
+    },
+    {
+      "salary_max": 48401,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "id": "4245468139",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjQ1NDY4MTM5In0.c5xovYIQXI1IIfdPr9rBSVhyg1z_V-HSzzJLfcjAmIE",
+      "company": {
+        "display_name": "Pearson Carter",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4245468139?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=98832A1892B38F529B120832F9A9B4FBF39CD744",
+      "salary_is_predicted": "1",
+      "created": "2023-08-06T06:33:09Z",
+      "contract_type": "Temporary",
+      "contract_time": "Full Time",
+      "description": "JavaScript Developer |REMOTE | £60,000 Pearson Carter are currently Working alongside aStart up company whoprovide children who are seriously ill with necessary information on their illness and information on the tools in hospital to put their mind at ease and help with their anxiety They are looking for capable JavaScript Developer to take on new projects and keeping their app alive and updated and work alongside there head of development. Essential Requirements: Javascript / Typescript / node…",
+      "title": "JavaScript Developer-REMOTE",
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "display_name": "Manchester, Greater Manchester",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 58401,
+      "longitude": -2.23438,
+      "latitude": 53.480701
+    },
+    {
+      "id": "4121641959",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_max": 54473,
+      "latitude": 51.503378,
+      "longitude": -0.139134,
+      "salary_min": 69473,
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Senior Full Stack (Javascript) Developer",
+      "description": "As a Senior Experience Technologist, you’ll be working as part of an agile team with other passionate, driven, and talented people, creating innovative solutions for our clients. Your primary responsibilities will include developing interactive web based, mobile, and/or desktop applications using Sapient as well as industry best practices to deliver high value and quality to Sapient clients. Our environment and culture foster growth and present exciting opportunities to hone your skills in the …",
+      "salary_is_predicted": "1",
+      "created": "2023-05-28T01:46:16Z",
+      "contract_time": "Part Time",
+      "contract_type": "Permanent",
+      "company": {
+        "display_name": "Publicis Sapient",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4121641959?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=DAA8D2296E75307D6235CB4A60534452175C579A",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MTIxNjQxOTU5In0.2Lz7oWJaFGIrVtYgJXKXN0E2jnXIn7CBVgRA3ZRGwHc"
+    },
+    {
+      "salary_max": 32068,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "creative-design-jobs",
+        "label": "Creative & Design Jobs"
+      },
+      "id": "4121640532",
+      "company": {
+        "display_name": "Newsroom",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4121640532?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=1A6966C0851F0523B630670B8A502F4BB49BC03F",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MTIxNjQwNTMyIn0.4pFTsArgW1B5Sq77AMQEhXbNlcFTna5XuzeuWb8BQCY",
+      "title": "Senior Javascript Developer",
+      "salary_is_predicted": "1",
+      "created": "2023-05-28T01:45:55Z",
+      "contract_time": "Part Time",
+      "contract_type": "Permanent",
+      "description": "A highly capable and ambitious engineering team, responsible for overcoming difficult technical challenges to bring our users industry leading usability, performance and reliability. We're building a team of individuals with strong fundamentals, good intuition, and an appreciation for clean and functional code, that can stay ahead of industry trends. Salary information: N/A - Depending on experience Responsibilities: We're looking for well-rounded engineers, to help scale our platform and launc…",
+      "salary_min": 42068,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "latitude": 51.503378,
+      "longitude": -0.139134
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "contract_type": "Permanent",
+      "contract_time": "Full Time",
+      "salary_min": 44172,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Manchester, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2023-08-22T16:17:51Z",
+      "description": "Role: JavaScript Developer Type: Permanent Location: Remote Applause IT is recruiting a JavaScript Developer to join a market-leading software solutions company in the UK. This JavaScript Developer will be part of their telematics division, which is the largest in the UK, providing core development SaaS products for their clientel within the vehicle telematics industry. Founded over 30 years ago with offices across 18 different countries, it is a great opportunity for an ambitious JavaScript De…",
+      "company": {
+        "display_name": "Applause IT Recruitment Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "4272726010",
+      "salary_max": 54172,
+      "latitude": 53.480701,
+      "longitude": -2.23438,
+      "title": "JavaScript Developer",
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4272726010?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=B1968EB6C5C5888210921F0D96A8C8A8C89D1C56",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjcyNzI2MDEwIn0.fRYRr_yUZU7XXH5_1Mq-rrudUztKkrECqcBE_xFNKLk"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI2MzQ1OTc0OCIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.YyUKdJdrJ7NkKewvLqhjDLjDROFJTlQdBrx1Na9wfS8",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Noir"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4263459748?utm_medium=api&utm_source=e2582b2a",
+      "created": "2023-08-16T22:22:29Z",
+      "contract_time": "Part Time",
+      "contract_type": "Contract",
+      "salary_is_predicted": "1",
+      "description": "JavaScript Developer JavaScript Developer - UK EduTech Firm - On-site - Birmingham Tech stack: JavaScript Developer, JavaScript, HTML, CSS, Vanilla, jQuery, Frontend Engineer, Frontend Developer, JavaScript Engineer, JavaScript Developer, JavaScript Developer I am recruiting for a JavaScript Developer for a highly successful Edutech Company based in Birmingham.JavaScript Developer JavaScript Developer – UK EduTech Firm – On-site - Birmingham Tech stack: JavaScript Developer, JavaScript, HTML, C…",
+      "title": "JavaScript Developer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "West Midlands",
+          "Birmingham"
+        ],
+        "display_name": "Birmingham, West Midlands",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_min": 60922,
+      "longitude": -1.89359,
+      "latitude": 52.483002,
+      "salary_max": 70922,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "4263459748"
+    },
+    {
+      "contract_type": "Permanent",
+      "contract_time": "Full Time",
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 44772,
+      "created": "2023-08-29T21:27:22Z",
+      "salary_is_predicted": "1",
+      "description": "With significant funding and successful products already on the market, this exciting education tech scale up is now planning significant growth They are looking for a Javascript Developer to design and develop their core platform (a collection of serverless microservice APIs). In your role as a Javascript Developer, you will have the option to work remotely or in a hybrid office space (non-compulsory). Paying up to £75,000, offering multiple benefits such as share options, a work anywhere poli…",
+      "title": "Javascript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjgzNzM4OTkxIn0.TiONlGO5phlB0tU0vGtlm1zlR6XA_mSLbglhq4NwFI8",
+      "company": {
+        "display_name": "IC Resources",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4283738991?utm_medium=api&utm_source=e2582b2a",
+      "id": "4283738991",
+      "salary_max": 52772,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "description": "JavaScript Developer, Reading, Berkshire, £50-60K. You must have a background as a JavaScript developer with experience of React hooks, TypeScript and have worked with React.js and / or Redux, Node or Deno. This role will be best suited to someone who has an interest in frontend architecture and full stack development. You will be responsible for: &x25CF; Being part of making our applications highly performant, scalable and resilient. &x25CF; Being pragmatic and able to iterate quickly; researc…",
+      "created": "2023-08-06T08:38:15Z",
+      "company": {
+        "display_name": "Definitive",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "Permanent",
+      "contract_time": "Part Time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Reading, Berkshire",
+        "area": [
+          "UK",
+          "South East England",
+          "Berkshire",
+          "Reading"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 50000,
+      "salary_max": 60000,
+      "id": "4245548163",
+      "salary_is_predicted": "0",
+      "title": "JavaScript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjQ1NTQ4MTYzIn0.NWS42erZVxSWbgCd0GfKuZIS_nCJQiULS0iO4auSb6Q",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4245548163?utm_medium=api&utm_source=e2582b2a",
+      "latitude": 51.455002,
+      "longitude": -0.969088
+    },
+    {
+      "id": "3760666192",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 44498,
+      "location": {
+        "area": [
+          "UK"
+        ],
+        "display_name": "UK",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 34498,
+      "salary_is_predicted": "1",
+      "created": "2022-12-09T06:03:32Z",
+      "contract_time": "Full Time",
+      "contract_type": "Permanent",
+      "description": "JavaScript Developer -Junior/Mid Level - Up to £50k- ASAP We are looking for someone who is willing to learn and willing to grow within their role - That Passion for the Technology Skills Needed: Language : JavaScript Frameworks: React, React Native and Node If you have experiences with all 3 perfect, but even 1 of the above will be beneficial.",
+      "title": "JavaScript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzc2MDY2NjE5MiIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.ESLKb0Dl3oLUkbafQskujaO8bYsjCvCr1QPASQps2_o",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/3760666192?utm_medium=api&utm_source=e2582b2a",
+      "company": {
+        "display_name": "Nigel Frank International",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "title": "JavaScript Developer",
+      "description": "Group Details: We are looking for JavaScript engineers to build HTML5-based UI products for our global, market-leading trading platform. You will be skilled in Angular, TypeScript, Rx.js, and JavaScript, all of which we are using to build a unified UI for the whole of Tradeweb in a company-wide UI monorepo. As a self-starter, you will be able to take a complex problem and use your own engineering and debugging skills to dissect and analyse it, and distill a clear solution. You will be able to p…",
+      "salary_is_predicted": "1",
+      "created": "2022-12-23T17:19:28Z",
+      "contract_time": "Full Time",
+      "contract_type": "Permanent",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Tradeweb"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/3796971082?utm_medium=api&utm_source=e2582b2a",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzc5Njk3MTA4MiIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.WIZ4wP6swkJHZBZJC8yTP7ONFv0rY8ZZJmBt2KBTQzA",
+      "salary_min": 85291,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_max": 95291,
+      "id": "3796971082"
+    },
+    {
+      "id": "4005454670",
+      "salary_max": 91306,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Borough, South East London",
+        "area": [
+          "UK",
+          "London",
+          "South East London",
+          "Borough"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 88306,
+      "latitude": 51.501286,
+      "longitude": -0.127508,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDAwNTQ1NDY3MCIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.ByblK8EHbdpibFOyzayRkTfmTAAiFPB6c2V5fyjdN4U",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Tradeweb Markets Inc."
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4005454670?utm_medium=api&utm_source=e2582b2a",
+      "description": "Group Details: We are looking for JavaScript engineers to build HTML5-based UI products for our global, market-leading trading platform. You will be skilled in Angular, TypeScript, Rx.js, and JavaScript, all of which we are using to build a unified UI for the whole of Tradeweb in a company-wide UI monorepo. As a self-starter, you will be able to take a complex problem and use your own engineering and debugging skills to dissect and analyse it, and distill a clear solution. You will be able to p…",
+      "salary_is_predicted": "1",
+      "created": "2023-03-28T06:19:45Z",
+      "contract_time": "Full Time",
+      "contract_type": "Contract",
+      "title": "JavaScript Developer"
+    },
+    {
+      "description": "Location: Nottingham Category: Permanent Jobs Salary: 48-50k  4 day working week, Fully remote Ref: JT/LC/5621 Contact Name: Luke Checkley Telephone: 01908 752384 You will have - Experience of PWA development Knowledge of IIFE, service workers & Module Pattern 7 years of .NET software development experience. Proficiency in explaining SOLID principles and discussing design patterns. Implementation of Dependency Injection. Experience with TDD (Test Driven Design). Strong knowledge of MVC and Enti…",
+      "created": "2023-08-04T06:20:41Z",
+      "company": {
+        "display_name": "Interact Consulting Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "Permanent",
+      "contract_time": "Full Time",
+      "salary_min": 55080,
+      "location": {
+        "display_name": "Nottingham, Nottinghamshire",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "East Midlands",
+          "Nottinghamshire",
+          "Nottingham"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Senior Full Stack .Net JavaScript Developer",
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4242044946?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=5D86D35CABB8D631DCA4A62C58AF307B137BDC29",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjQyMDQ0OTQ2In0.atb7LCfs9Rx2rVFJeCb-K1qHeiC-8w7MvKTvgQLql2I",
+      "longitude": -1.14917,
+      "latitude": 52.955101,
+      "salary_max": 65080,
+      "id": "4242044946"
+    },
+    {
+      "created": "2023-05-28T01:44:43Z",
+      "contract_time": "Full Time",
+      "contract_type": "Contract",
+      "salary_is_predicted": "1",
+      "description": "Archive: More than 3,500 project profiles, scores of essays, interviews and reviews. Publish: Post your projects, events, announcements. Education: Tutorials (beginners and advanced) with code examples, downloads. Jobs Archive: Find employers who have recruited here in the past (over 800 jobs). Discounts: Special offers and giveaways (events, books and media). Connect to skilled and talented job-seekers worldwide through direct access to thousands of readers daily on CAN.",
+      "title": "Full Stack Javascript Developer at VMI Studio",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDEyMTYzNDUyMSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.GxUrBxIPj7CLZz708rJ8LGn5FS_ZYl4TQrDbJy4idqY",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4121634521?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=A2DDB7489F94E5175E0E1FA357B13D8EAD7120D5",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Creativeapplications"
+      },
+      "longitude": -0.139134,
+      "latitude": 51.503378,
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 32586,
+      "category": {
+        "label": "PR, Advertising & Marketing Jobs",
+        "tag": "pr-advertising-marketing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 36586,
+      "id": "4121634521"
+    },
+    {
+      "longitude": -1.54912,
+      "latitude": 53.799599,
+      "title": "Senior Full Stack React/Javascript Developer",
+      "salary_is_predicted": "0",
+      "contract_time": "Part Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4287509445?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=9AE5DF04226634798DD86E555141948D47E32FE4",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0Mjg3NTA5NDQ1In0.BP_Gq4tPDkpL4fYpDxWXj_59Wlqiyy85QlxI4rkN-mE",
+      "id": "4287509445",
+      "salary_max": 60000,
+      "contract_type": "Permanent",
+      "salary_min": 70000,
+      "location": {
+        "area": [
+          "UK",
+          "Yorkshire And The Humber",
+          "West Yorkshire",
+          "Leeds"
+        ],
+        "display_name": "Leeds, West Yorkshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Are you looking for an exciting new challenge that will allow you to stretch your coding skills within a fast-paced and dynamic working environment and get involved in the carbon reduction scene? Were looking for motivated individuals, with a passion for developing high-quality applications, APIs and services and delivering them into our production environments. Sound interesting? At Carbon UK Holdings we encourage flexible working that fits the individual as well as the team, whether that be f…",
+      "created": "2023-08-31T23:59:34Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Carbon UK Holdings Ltd"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "latitude": 51.50702,
+      "longitude": -0.127149,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzI5MjUyMzEzMiIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.OL6A3vGlEypX-ZWBBdLz1pojoiJTo2_nbWuFOvqcV6M",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/3292523132?utm_medium=api&utm_source=e2582b2a",
+      "salary_is_predicted": "1",
+      "title": "Javascript Developer-Remote",
+      "id": "3292523132",
+      "salary_max": 80193,
+      "location": {
+        "display_name": "Charing Cross, Central London",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London",
+          "Central London",
+          "Charing Cross"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 70193,
+      "contract_type": "Contract",
+      "contract_time": "Part Time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ChilliFrog"
+      },
+      "created": "2022-07-05T18:31:12Z",
+      "description": "JOB OVERVIEW; JavaScript Developer or Senior JavaScript Developer (HTML5 / Vue.js / REACT / Atlassian tools / CI&CD) sought by exciting technology company start-up (established 2014) and provider of digital marketing optimisation SaaS solutions, integration services and professional services within Big Data, adtech and marketing solutions. CONTRACT TYPE; Permanent employment contract OR long-term contractor on a reasonable £ daily rate SALARY / RATE; Negotiable depending on ability (£60-£80K re…",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "id": "4276360257",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 43472,
+      "longitude": -2.31896,
+      "latitude": 53.460919,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester",
+          "Trafford Park"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Trafford Park, Manchester"
+      },
+      "salary_min": 38472,
+      "salary_is_predicted": "1",
+      "description": "About us Club L London is the next-generation online fashion retailer for the forward-thinking consumer. Founded in 2007 Club L was created with the vision of offering long lasting luxury styles, trend-oriented collections with a twist and unique, statement designs that offer both exceptional quality and fit in an otherwise saturated market of fast fashion and throw away goods. Expertly designed and crafted in-house, Club L specialises in accessible luxury, unique designs and unrivalled quality…",
+      "created": "2023-08-24T18:46:04Z",
+      "contract_type": "Temporary",
+      "contract_time": "Full Time",
+      "title": "JavaScript Developer (Node)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI3NjM2MDI1NyIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.WKBBVAufaabax5vzjNovmj66_qkmS5A__jf7XwyE-0Y",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Club L London"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4276360257?utm_medium=api&utm_source=e2582b2a"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjU4NTI4ODU1In0.s3QRo7gswuLYFf7WJFurB4CV1hfZroGq_gPA2U3YqaA",
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4258528855?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=47B2B893B73FE5CB6F0FB74F5D49B5CF43E7C18B",
+      "salary_is_predicted": "0",
+      "title": "Junior JavaScript Games Developer",
+      "latitude": 52.8069,
+      "longitude": -1.64303,
+      "salary_max": 28000,
+      "id": "4258528855",
+      "company": {
+        "display_name": "GSA Techsource Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "If you are looking to join a high tech industry with a well established and world leading gaming company that rewards you with progression, then look no furtherOur client is looking for a Junior JavaScript Games Developer, to join their Burton upon Trent team, who uses the latest technologies to produce high quality products to clients worldwide. Requirements: - Excellent JavaScript, HTML5 and JSON knowledge and skill- Knowledge of Unit Testing in JavaScript- Good communication skills Desirable…",
+      "created": "2023-08-13T23:54:32Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "West Midlands",
+          "Staffordshire",
+          "Burton-On-Trent"
+        ],
+        "display_name": "Burton-On-Trent, Staffordshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_min": 26000,
+      "contract_type": "Permanent",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "salary_max": 53263,
+      "category": {
+        "label": "Engineering Jobs",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "4252513906",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI1MjUxMzkwNiIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.TzRtZ3h_AY2LzVXtCuHdJADg1V21XdmQcoeht0XUssk",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4252513906?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=69EF44EEDE9485F025C1E3E9F9B1C49E93CB91F1",
+      "contract_time": "Full Time",
+      "contract_type": "Permanent",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "The Esports Network- JobBoard"
+      },
+      "description": "Newcastle upon Tyne, England, United Kingdom Required languages Employment type Full-time Mid-senior level Sector tags Software Engineering, Web Development Description Description Position at LeoVegas UK LeoVegas is where the lions play…and work A fun, agile and fast paced environment connecting 1000 LeoVegas employees with over 60,000 worldwide employees of MGM Resorts International, as our two leading forces come together. We’re culture focused, so if you’re an innovator, initiator and a tea…",
+      "salary_is_predicted": "1",
+      "created": "2023-08-10T03:50:45Z",
+      "title": "JavaScript Developer / Node.JS LeoVegas Group Worldwide iGaming",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "UK",
+        "area": [
+          "UK"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 50263
+    },
+    {
+      "longitude": -0.229095,
+      "latitude": 51.4925,
+      "salary_is_predicted": "0",
+      "title": "JavaScript Developer - Creative/3D",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDIwMDM2NDk5MCIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.zMV2kWsOXV2M0kRXtmVRMi6mVD2wpeQ5QiQvzZVOqjQ",
+      "contract_time": "Full Time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4200364990?utm_medium=api&utm_source=e2582b2a",
+      "id": "4200364990",
+      "salary_max": 75000,
+      "contract_type": "Permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Hammersmith, West London",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London",
+          "West London",
+          "Hammersmith"
+        ]
+      },
+      "salary_min": 55000,
+      "description": "JavaScript / TypeScript Developer - Creative Studio Are you a JavaScript Developer with a creative flair and an interest in AR and VR? We are looking for a JavaScript Developer to work for a dynamic, friendly and award winning AR and VR company who are passionate about creating augmented and mixed reality experiences which reach millions of users worldwide. The JavaScript Developer will be building some really exciting, revolutionary tools using JavaScript and Web Technologies. You will be taki…",
+      "created": "2023-07-11T17:59:04Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Client Server"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Warnham, Horsham",
+        "area": [
+          "UK",
+          "South East England",
+          "West Sussex",
+          "Horsham",
+          "Warnham"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 79713,
+      "latitude": 51.082938,
+      "longitude": -0.340832,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDIxNDc4NDQ3NiIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.MRkZKnYF6X7dVsly2--9cvl16LGGDU9-7apWowoIj-Q",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4214784476?utm_medium=api&utm_source=e2582b2a",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Client Server"
+      },
+      "salary_is_predicted": "1",
+      "created": "2023-07-20T11:01:00Z",
+      "contract_time": "Part Time",
+      "contract_type": "Permanent",
+      "description": "JavaScript Developer (Angular 13) Reigate / WFH to 85k Are you a skilled JavaScript Developer with strong modern Angular skills? You could be progressing your career at a global FinTech and working on a new front end for the visualisation of complex and interesting mathematically based algorithms (insurance reserving data). As a JavaScript Developer you will work across the full development lifecycle, liaising with the Product Owner to define, refine and deliver against the product backlog. You…",
+      "title": "JavaScript Developer Angular 13",
+      "id": "4214784476",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "display_name": "Client Server",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_max": 89713
+    },
+    {
+      "salary_max": 85000,
+      "id": "4265110109",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjY1MTEwMTA5In0.NzUapkILDQFbdAIWbzgVyHyPsNiKbRpzYyQ4dXC8Glo",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4265110109?utm_medium=api&utm_source=e2582b2a",
+      "salary_is_predicted": "0",
+      "title": "JavaScript Developer Angular 15",
+      "latitude": 51.237598,
+      "longitude": -0.205832,
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Client Server"
+      },
+      "description": "JavaScript Developer (Angular 15) Reigate / WFH to £85k Are you a skilled JavaScript Developer with strong modern Angular skills? You could be progressing your career at a global FinTech and working on a new front end for the visualisation of complex and interesting mathematically based algorithms (insurance reserving data). As a JavaScript Developer you will work across the full development lifecycle, liaising with the Product Owner to define, refine and deliver against the product backlog. Yo…",
+      "created": "2023-08-17T21:02:32Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "South East England",
+          "Surrey",
+          "Reigate"
+        ],
+        "display_name": "Reigate, Surrey",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_min": 75000,
+      "contract_type": "Permanent",
+      "contract_time": "Full Time"
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4283431940?utm_medium=api&utm_source=e2582b2a",
+      "contract_time": "Full Time",
+      "company": {
+        "display_name": "Pearson Carter",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjgzNDMxOTQwIn0.htwLLB7FOLltsEY7jp-ifI_2IvinzEZYeE8rAlnGw-8",
+      "title": "JavaScript Developer-Remote",
+      "salary_is_predicted": "0",
+      "description": "fully remote JavaScript Developer, 50k Pearson Carter are currently working with a large insurance client who are working with companies such as the NHS and Ministry of Defense, they are looking for an ambitious JavaScript Developer who is confident on working in projects from scratch and can evolve with the company. This Company is up to date with the latest technologies and have big plans to expand their development team in the near future. Responsibilities: Key responsibilities will include …",
+      "created": "2023-08-29T17:28:41Z",
+      "salary_min": 40000,
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "Permanent",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 50000,
+      "id": "4283431940"
+    },
+    {
+      "contract_type": "Permanent",
+      "contract_time": "Full Time",
+      "location": {
+        "area": [
+          "UK",
+          "London",
+          "Central London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Central London, London"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 49871,
+      "description": "Seneca uses Cognitive Neuroscience to boost understanding, and retention & learning by 30-80%. By learning more quickly and durably students at school and young professionals can free up countless hours of leisure time, while also performing better in their exams. We are looking for front end developers with extensive experience in: React  Redux Node  Express Jest or equivalent testing framework By working with us you will have a real impact on society whilst earning a competitive salary with e…",
+      "created": "2023-06-30T21:12:17Z",
+      "company": {
+        "display_name": "Seneca Learning",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": -0.11126,
+      "latitude": 51.51985,
+      "salary_is_predicted": "1",
+      "title": "Full Stack Javascript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE3OTk1NDQxMSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.XzpM1r3hdHImpLLriUwGNEG3u5VTV4w2TvP2yoAEn4M",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4179954411?utm_medium=api&utm_source=e2582b2a",
+      "id": "4179954411",
+      "salary_max": 52871
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "salary_min": 60000,
+      "contract_type": "Permanent",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI3NDUzOTk5MSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.gCT3yDVUuQyRbeoCQa2HBguvkWgXV3AQXknvveil59Q",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4274539991?utm_medium=api&utm_source=e2582b2a",
+      "contract_time": "Full Time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Pearson Carter"
+      },
+      "description": "Senior Full Stack Developer, £80,000 Pearson Carter are currently working with a reputable, technology company who provide personalised experiences to fashion consumers through the use of AI. They are looking to expand their team as they are wanting to expand on their global clientele within the luxury fashion industry. They are looking for someone who has had extensive experience being a full stack developer and a senior team leader. They offer an excellent salary of up £80K depending on exper…",
+      "salary_is_predicted": "0",
+      "created": "2023-08-23T17:23:43Z",
+      "title": "Senior JavaScript Developer",
+      "id": "4274539991",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 65000
+    },
+    {
+      "salary_max": 72000,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "4289899984",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4289899984?utm_medium=api&utm_source=e2582b2a",
+      "contract_time": "Full Time",
+      "company": {
+        "display_name": "Pearson Carter",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI4OTg5OTk4NCIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.o3dECgq2kiSFeWm8z02MNe_xAVdbQtoQA6WR6gJEnL0",
+      "title": "Senior JavaScript Development ",
+      "salary_is_predicted": "0",
+      "description": "Senior Full Stack Developer, £80,000 Pearson Carter are currently working with a reputable, technology company who provide personalised experiences to fashion consumers through the use of AI. They are looking to expand their team as they are wanting to expand on their global clientele within the luxury fashion industry. They are looking for someone who has had extensive experience being a full stack developer and a senior team leader. They offer an excellent salary of up £80K depending on exper…",
+      "created": "2023-09-01T17:47:48Z",
+      "salary_min": 67000,
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "Permanent"
+    },
+    {
+      "contract_type": "Permanent",
+      "contract_time": "Part Time",
+      "location": {
+        "area": [
+          "UK",
+          "London",
+          "Central London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Central London, London"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 38053,
+      "description": "Opearlo is a Voice Design Agency that helps organisations make their products, services and content accessible through voice by building voice apps, using Amazon Alexa, Microsoft Cortana, and Google Home. As our new team member, you would be doing the following: Building Alexa Skills Improving Opearlo Analytics, a platform to track Alexa Skill usage You have the following experience: Javascript, React, nodeJS Alexa Skills Kit In an ideal world, you would also have experience in: API Integration…",
+      "created": "2023-08-12T22:15:26Z",
+      "company": {
+        "display_name": "Opearlo",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 51.51985,
+      "longitude": -0.11126,
+      "salary_is_predicted": "1",
+      "title": "Junior/Mid Javascript Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUlycUltOUw3aEc2MHdpeDc3c3hfQSIsImkiOiI0MjU3MjU1MTk2In0.TJufuSO1T6HOO9H73ni5p9i-AJCRMMtlU8uOMXTwwck",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/4257255196?utm_medium=api&utm_source=e2582b2a",
+      "id": "4257255196",
+      "salary_max": 39053
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_max": 40066,
+      "id": "4126900099",
+      "title": "Javascript Application Developer (EPOS)",
+      "created": "2023-05-31T23:26:05Z",
+      "contract_time": "Part Time",
+      "contract_type": "Contract",
+      "salary_is_predicted": "1",
+      "description": "We are seeking a Javascript Application Developer This is a unique opportunity to join a Company in the middle of a lot of growth and opportunity Please do not hesitate to get in touch if you’re interested. ABOUT DIGITICKETS DigiTickets provides award-winning software solutions to the Tourism, Leisure and Events Industries. Trusted by over 600 venues globally to process over 1 million ticket sales per month, and approximately £300,000,000 in revenues annually we work tirelessly to ensure we und…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "DigiTickets"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4126900099?se=aIrqIm9L7hG60wix77sx_A&utm_medium=api&utm_source=e2582b2a&v=0FD208B94B65D19E1DC9AD48605D3DD907A6237F",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDEyNjkwMDA5OSIsInMiOiJhSXJxSW05TDdoRzYwd2l4NzdzeF9BIn0.uCULQb-e0AF3sfbSYywoO3XrU62Bs7vjaZjjfvdPkio",
+      "latitude": 50.721802,
+      "longitude": -3.53362,
+      "salary_min": 42066,
+      "location": {
+        "area": [
+          "UK",
+          "South West England",
+          "Devon",
+          "Exeter"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Exeter, Devon"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job"
+    }
+  ]
+}
